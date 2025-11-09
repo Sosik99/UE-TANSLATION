@@ -1,0 +1,64 @@
+--- 2025-10-20T17:12:19.389912Z ---
+Attempt: 1
+Text: 'joining failed! Check your Internet connection \r\nor contact Galactic Games Support.\r\n\r\nPossible causes:\r\nSteam requires you to have at least one product \r\npurchased on your Steam account. Otherwise, \r\nSteam will not allow you to connect and send \r\ninvitations.'
+Result repr: <googletrans.models.Translated object at 0x000002C21EAB1A00>
+Exception: ReadTimeout(TimeoutError('The read operation timed out'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 78, in request
+    return self.connection.request(method, url, headers, stream, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\http2.py", line 118, in request
+    return h2_stream.request(method, url, headers, stream, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\http2.py", line 292, in request
+    status_code, headers = self.receive_response(timeout)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\http2.py", line 344, in receive_response
+    event = self.connection.wait_for_event(self.stream_id, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\http2.py", line 197, in wait_for_event
+    self.receive_events(timeout)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\http2.py", line 204, in receive_events
+    data = self.socket.read(self.READ_NUM_BYTES, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 60, in read
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ReadTimeout: The read operation timed out
+
+

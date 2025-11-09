@@ -1,0 +1,512 @@
+--- 2025-10-20T15:20:43.227161Z ---
+Attempt: 1
+Text: 'English'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE4C470>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:20:43.557136Z ---
+Attempt: 1
+Text: 'Spanish'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE3B110>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:20:43.912408Z ---
+Attempt: 1
+Text: 'Turkish'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE3B110>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:20:44.058170Z ---
+Attempt: 1
+Text: 'Ukrainian'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE3B110>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:20:44.536401Z ---
+Attempt: 1
+Text: 'German'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE4E030>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:20:49.904201Z ---
+Attempt: 1
+Text: 'Japanese'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE4E030>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:21:20.784431Z ---
+Attempt: 1
+Text: 'English'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC3ED20>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:21:21.231284Z ---
+Attempt: 1
+Text: 'Spanish'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA2AB0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:21:21.381299Z ---
+Attempt: 1
+Text: 'Turkish'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA2AB0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:21:21.592291Z ---
+Attempt: 1
+Text: 'Ukrainian'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA2AB0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:21:22.185450Z ---
+Attempt: 1
+Text: 'German'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80230>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:21:22.342428Z ---
+Attempt: 1
+Text: 'Japanese'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80230>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:22:21.084726Z ---
+Attempt: 1
+Text: 'LONG'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE677D0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:22:36.366537Z ---
+Attempt: 1
+Text: 'Testers:'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE664E0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:24:19.246467Z ---
+Attempt: 1
+Text: 'Testers:'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA3050>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:25:10.905211Z ---
+Attempt: 1
+Text: 'WorldWide'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE64F80>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:25:11.850297Z ---
+Attempt: 1
+Text: 'WorldWide'
+Result repr: <googletrans.models.Translated object at 0x000002C21ED80380>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:25:32.462141Z ---
+Attempt: 1
+Text: 'PUBLIC'
+Result repr: <googletrans.models.Translated object at 0x000002C21ED08CE0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:26:31.015816Z ---
+Attempt: 1
+Text: 'UNLIMITED'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA7FB0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:26:38.465819Z ---
+Attempt: 1
+Text: 'MEDIUM'
+Result repr: <googletrans.models.Translated object at 0x000002C21EAB1790>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:27:00.684124Z ---
+Attempt: 1
+Text: 'UNLIMITED'
+Result repr: <googletrans.models.Translated object at 0x000002C21ED08D10>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:27:02.348128Z ---
+Attempt: 1
+Text: 'MEDIUM'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA3410>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:27:52.670227Z ---
+Attempt: 1
+Text: 'UNLIMITED'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE651C0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:27:54.245210Z ---
+Attempt: 1
+Text: 'MEDIUM'
+Result repr: <googletrans.models.Translated object at 0x000002C21EAB3F80>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:28:30.529702Z ---
+Attempt: 1
+Text: 'UNLIMITED'
+Result repr: <googletrans.models.Translated object at 0x000002C21EAB18E0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:28:41.874085Z ---
+Attempt: 1
+Text: 'MEDIUM'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC82390>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:29:21.012552Z ---
+Attempt: 1
+Text: 'UNLIMITED'
+Result repr: <googletrans.models.Translated object at 0x000002C21EE64860>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:29:22.700181Z ---
+Attempt: 1
+Text: 'MEDIUM'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC3D3A0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:29:57.554764Z ---
+Attempt: 1
+Text: 'right'
+Result repr: <googletrans.models.Translated object at 0x000002C21ED81EB0>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:31:53.687945Z ---
+Attempt: 1
+Text: 'Testers:'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA2600>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:32:11.112902Z ---
+Attempt: 1
+Text: 'round!'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA2480>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+
+--- 2025-10-20T15:32:27.322232Z ---
+Attempt: 1
+Text: 'None'
+Result repr: <googletrans.models.Translated object at 0x000002C21ECA6240>
+Exception: TypeError("'NoneType' object is not iterable")
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 222, in translate
+    translated_parts = list(map(lambda part: TranslatedPart(part[0], part[1] if len(part) >= 2 else []), parsed[1][0][0][5]))
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'NoneType' object is not iterable
+
+

@@ -1,0 +1,2491 @@
+--- 2025-10-20T15:05:53.812965Z ---
+Attempt: 1
+Text: 'Back'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectTimeout(TimeoutError('timed out'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectTimeout: timed out
+
+
+--- 2025-10-20T15:05:54.987969Z ---
+Attempt: 1
+Text: 'Delete save slot 1'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(OSError(10065, 'A socket operation was attempted to an unreachable host', None, 10065, None))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [WinError 10065] A socket operation was attempted to an unreachable host
+
+
+--- 2025-10-20T15:05:55.033970Z ---
+Attempt: 1
+Text: 'Delete save slot 2'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.064970Z ---
+Attempt: 1
+Text: 'Microphone Selection'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.072968Z ---
+Attempt: 1
+Text: 'Voice Chat'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.077968Z ---
+Attempt: 1
+Text: 'Microphone Test'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.082967Z ---
+Attempt: 1
+Text: 'in game VC Method'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.088969Z ---
+Attempt: 1
+Text: 'Choose a map!'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.095967Z ---
+Attempt: 1
+Text: 'Push To Talk'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.103969Z ---
+Attempt: 1
+Text: 'Character Creator 4\r\nFab.com\r\nfree3d.com\r\nsketchfab.com\r\ncgtrader.com'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.110968Z ---
+Attempt: 1
+Text: 'Quit Game'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.149967Z ---
+Attempt: 1
+Text: 'Powered by:'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.157972Z ---
+Attempt: 1
+Text: 'FOV'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.163969Z ---
+Attempt: 1
+Text: 'Delete save slot 3'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.168967Z ---
+Attempt: 1
+Text: 'MAX'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.174971Z ---
+Attempt: 1
+Text: 'Back To Defaults'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.179968Z ---
+Attempt: 1
+Text: 'MAX'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.183966Z ---
+Attempt: 1
+Text: 'Accept'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.188968Z ---
+Attempt: 1
+Text: 'MAX'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.192967Z ---
+Attempt: 1
+Text: 'Game translated by:'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.197966Z ---
+Attempt: 1
+Text: 'Singleplayer'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:05:55.201971Z ---
+Attempt: 1
+Text: 'YES'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.084493Z ---
+Attempt: 1
+Text: 'NO'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.088492Z ---
+Attempt: 1
+Text: 'Movement'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.091492Z ---
+Attempt: 1
+Text: 'CornCastle'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.095492Z ---
+Attempt: 1
+Text: 'Coming soon'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.100492Z ---
+Attempt: 1
+Text: 'Are You sure?'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.104491Z ---
+Attempt: 1
+Text: 'Back'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.108491Z ---
+Attempt: 1
+Text: 'Controls'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.113492Z ---
+Attempt: 1
+Text: 'Key Binds'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.116491Z ---
+Attempt: 1
+Text: 'Video'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.120490Z ---
+Attempt: 1
+Text: 'Audio'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.124494Z ---
+Attempt: 1
+Text: 'Back'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.127494Z ---
+Attempt: 1
+Text: 'Back'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.131491Z ---
+Attempt: 1
+Text: 'Developed and Published by:'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.136500Z ---
+Attempt: 1
+Text: 'Invert Mouse'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.140495Z ---
+Attempt: 1
+Text: 'in game Mouse Sensitivity'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.143491Z ---
+Attempt: 1
+Text: 'Key Binds'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.147491Z ---
+Attempt: 1
+Text: 'Move Forward'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.151492Z ---
+Attempt: 1
+Text: 'Move Backward'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.155491Z ---
+Attempt: 1
+Text: 'Move Left'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.159491Z ---
+Attempt: 1
+Text: 'Move Right'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.163491Z ---
+Attempt: 1
+Text: 'Textures and 3D Models by:'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.168494Z ---
+Attempt: 1
+Text: 'Sprint'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.173490Z ---
+Attempt: 1
+Text: 'Crouch'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.176490Z ---
+Attempt: 1
+Text: 'Interaction'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+
+--- 2025-10-20T15:06:04.181493Z ---
+Attempt: 1
+Text: 'Back To Defaults'
+Result repr: <googletrans.models.Translated object at 0x000002C21EC80380>
+Exception: ConnectError(gaierror(11001, 'getaddrinfo failed'))
+Traceback:
+Traceback (most recent call last):
+  File "c:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\translate_texts.py", line 676, in process_file
+    result = translator.translate(text_for_translation, src='en', dest=lang_code)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 194, in translate
+    data, response = self._translate(text, dest, src)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\googletrans\client.py", line 120, in _translate
+    r = self.client.post(url, params=params, data=data)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 824, in post
+    return self.request(
+           ^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 600, in request
+    return self.send(
+           ^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 620, in send
+    response = self.send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 647, in send_handling_redirects
+    response = self.send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 684, in send_handling_auth
+    response = self.send_single_request(request, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpx\_client.py", line 714, in send_single_request
+    ) = transport.request(
+        ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection_pool.py", line 152, in request
+    response = connection.request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 65, in request
+    self.socket = self._open_socket(timeout)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_sync\connection.py", line 85, in _open_socket
+    return self.backend.open_tcp_stream(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_backends\sync.py", line 133, in open_tcp_stream
+    with map_exceptions(exc_map):
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\danie.DESKTOP-L3EJPPG\AppData\Local\Programs\Python\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Users\danie.DESKTOP-L3EJPPG\Documents\VisualStudio\TRANSLATION\.venv\Lib\site-packages\httpcore\_exceptions.py", line 12, in map_exceptions
+    raise to_exc(exc) from None
+httpcore._exceptions.ConnectError: [Errno 11001] getaddrinfo failed
+
+

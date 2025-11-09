@@ -1,0 +1,8080 @@
+msgctxt ",043D2F0A7EDCA94CAE1CFBF3F90B3B68"
+msgid "Animations"
+msgstr ""
+
+msgctxt ",710FDB6ADB881B408116EF95335E1961"
+msgid "Mesh"
+msgstr ""
+
+msgctxt ",BF38051F0B70DBC1C8FCD57FC8CDC3E0"
+msgid "SKM_DemonDoll_Var2"
+msgstr ""
+
+msgctxt ",2D4C0F7BF664D13FBB151F9A6EE483C8"
+msgid "For better dress physics results use SKM_DemonDoll_Var1,"
+msgstr ""
+
+msgctxt ",F81575D28CC200B761001F68F13BFF70"
+msgid "SKM_DemonDoll_Var1"
+msgstr ""
+
+msgctxt ",1168349375A2A3CD68AC5896014640AE"
+msgid "for Blueprints use separated versions SK_Dress_Var1"
+msgstr ""
+
+msgctxt ",3AB033C184B8DF82213978D353401B93"
+msgid "Skeletal / animated"
+msgstr ""
+
+msgctxt ",748C617D6B2107A7C9C7DDA37C68072C"
+msgid "static meshes"
+msgstr ""
+
+msgctxt ",5C593798E780AD8A9C2328873DBC6749"
+msgid "Walls, floors"
+msgstr ""
+
+msgctxt ",659635F1B37A664489B050CA0EA01CC0"
+msgid "Check Level blueprint for ragdoll triggers"
+msgstr ""
+
+msgctxt ",EC56AF1ECF0BD6E5415E9830DDB20E6D"
+msgid "First Person Template"
+msgstr ""
+
+msgctxt ",EC56AF1ECF0BD6E5415E9830DDB20E6D"
+msgid "First Person Template"
+msgstr ""
+
+msgctxt ",3A9D6192471F7E7D8C8605B2897F4A48"
+msgid "MetalPaintMask"
+msgstr ""
+
+msgctxt ",2C64C5CF613D8B9F4F7F3980D29ACA10"
+msgid "AO"
+msgstr ""
+
+msgctxt ",3CC429D7EE5B21A397FDC636221F8280"
+msgid "Anisotropic"
+msgstr ""
+
+msgctxt ",8AE9A243DCBBB3A1936F181ED19BE48D"
+msgid "PlasticMask"
+msgstr ""
+
+msgctxt ",B9EBDF044098C49CB8B6ECCD6704E877"
+msgid "ClearCoat"
+msgstr ""
+
+msgctxt ",BACED2C5178236A654FCDBEB38E72A72"
+msgid "ClearCoatRoughness"
+msgstr ""
+
+msgctxt ",767078B82D60BC9DFAEC29326B0B7C06"
+msgid "Roughness"
+msgstr ""
+
+msgctxt ",85A2CA75F68BC7E596655DC20F3244A8"
+msgid "Spec"
+msgstr ""
+
+msgctxt ",19DCE4A66F8F7B74A6EF0664A88A15DD"
+msgid "Metallic"
+msgstr ""
+
+msgctxt ",0F93A7BBA702BD4555EBAFEB2E44B9DF"
+msgid "NANITE MESHES"
+msgstr ""
+
+msgctxt ",27082E98428CE4E531D7B69178B1BA71"
+msgid "LOW POLY MESHES"
+msgstr ""
+
+msgctxt ",AD1549E6FA67C684A6630D3BF3BC9A15"
+msgid "Press 1 - [Opaque Unlit]"
+msgstr ""
+
+msgctxt ",78EE490F3B5026A9CCF0B778009A6345"
+msgid "Press 2 - [Opaque Lit]"
+msgstr ""
+
+msgctxt ",037F61C4FB9CAC9EEA85C867F4F5FB41"
+msgid "Press 3 - [Translucent Unlit]"
+msgstr ""
+
+msgctxt ",C7B290578337025EBA48DE3D4B13966E"
+msgid "Press 4 - [Translucent Lit]"
+msgstr ""
+
+msgctxt ",5460E670DFBED221BEB1CD1E8CA6F101"
+msgid "Press 5 - [Dithered Lit] over [Translucent Unlit]"
+msgstr ""
+
+msgctxt ",25E3B9290FA47A13781495C5F53A426A"
+msgid "Press 6 - [Dithered Lit] over [Translucent Lit]"
+msgstr ""
+
+msgctxt ",F94AB59BB2DBCF240C02A81435231E11"
+msgid "Press 7 - [Dithered Unlit] over [Translucent Unlit]"
+msgstr ""
+
+msgctxt ",4879570F9D5589D0668939C58B79F915"
+msgid "Ground shading modes"
+msgstr ""
+
+msgctxt ",9AE6D02B0DC527AA781EB4A1D2C77CE0"
+msgid "shot0010_001"
+msgstr ""
+
+msgctxt ",4BB085A6C1B6EF844F687AD389660A15"
+msgid "shot0020_001"
+msgstr ""
+
+msgctxt ",EB5F665544CEF8CDE842A113488014B8"
+msgid "shot0030_001"
+msgstr ""
+
+msgctxt ",3D49AA9F8072AC2243FD1D671986388C"
+msgid "shot0040_001"
+msgstr ""
+
+msgctxt ",5C0AC1E34C57A62AF16052C0FA54AD33"
+msgid "shot0050_001"
+msgstr ""
+
+msgctxt ",EA9D3FFB4AD84C825D7A69A46DF2EE0C"
+msgid "shot0060_001"
+msgstr ""
+
+msgctxt ",FE72CDC14D164B2C080D67849AEBA246"
+msgid "shot0070_001"
+msgstr ""
+
+msgctxt ",4E145B8AAE56AB219B293900653C908F"
+msgid "ICE TEXTURE GENERATOR\r\n1. Select BP_IceGenerator\r\n2. Tweak parameters to get result you need.\r\n3. Find the buttons in 'Default tab'\r\n4. Render Preview - generate basic preview material\r\n5. Render SDF - generate signed distance field texture (cracks)\r\n6. Create Textures - create new asset with selected [Name] in [Path] folder\r\n7. Update textures - update selected Base/Normal/Distance textures."
+msgstr ""
+
+msgctxt ",9788B681FFBD226B1BA12E7C5ADDCF31"
+msgid "press '1' and '2'"
+msgstr ""
+
+msgctxt ",9A6840E5C9171851E62285E329415806"
+msgid "skelmesh vertex spawn"
+msgstr ""
+
+msgctxt ",54B14D3E3DA026BEEFDEA5AD54665083"
+msgid "srart time 1.5s"
+msgstr ""
+
+msgctxt ",9AB13D08A2796964CAA8B13E8AD5DD99"
+msgid "srart time 5s"
+msgstr ""
+
+msgctxt ",17FFA0A5F88CF45BF6E0945B98191373"
+msgid "srart time 8s"
+msgstr ""
+
+msgctxt ",AC0A01129A498A3A72C84A4868929D69"
+msgid "beam particle source/target"
+msgstr ""
+
+msgctxt ",42DFFA6007413CF3649CF50769BD9D1D"
+msgid "Directional_Control_Fire"
+msgstr ""
+
+msgctxt ",2D61413E7A51EFB4F0C0E35E1491EEE3"
+msgid "Beam_CandleFire_blueprints"
+msgstr ""
+
+msgctxt ",1A68BA87100CA932683E34F4B36FADE9"
+msgid "CandleFire_blueprints"
+msgstr ""
+
+msgctxt ",F7F99BA9CCAB6E4306DDD6A30A909831"
+msgid "BoneeFire_blueprints"
+msgstr ""
+
+msgctxt ",6C4CA44D0DF377CB012FE62E27386897"
+msgid "Basic_Example"
+msgstr ""
+
+msgctxt ",7521FD611676409BE70732A5D8F21752"
+msgid "Skel Vert/Surf blueprints"
+msgstr ""
+
+msgctxt ",7D9D3949E438BEFA5C3EC44B6DEB35A9"
+msgid "Explosion blueprints"
+msgstr ""
+
+msgctxt ",0DBE1C8E15F312E3105EB20A85F5DBBA"
+msgid "Fire&Flame_elements"
+msgstr ""
+
+msgctxt ",A566881280D1C5A6F65AB5C6674DE7C4"
+msgid "Worldoffset_material"
+msgstr ""
+
+msgctxt ",C6B1322091BF44B5820119804560967A"
+msgid "not support on mobile"
+msgstr ""
+
+msgctxt ",E74947CBE703593C99645E2F603F31A7"
+msgid "Tex_Distortion_material"
+msgstr ""
+
+msgctxt ",BA407A67CCFA79A14A07F3F4D7E47C6E"
+msgid "Fire&Flame"
+msgstr ""
+
+msgctxt ",9788B681FFBD226B1BA12E7C5ADDCF31"
+msgid "press '1' and '2'"
+msgstr ""
+
+msgctxt ",CEC77754F1BE1ED5A9C5FE303B2CDBC9"
+msgid "skeletalmesh - vertex spawns"
+msgstr ""
+
+msgctxt ",54B14D3E3DA026BEEFDEA5AD54665083"
+msgid "srart time 1.5s"
+msgstr ""
+
+msgctxt ",9C9F016D55072160364D23FB798F07C8"
+msgid "skeletalmesh - socket spawn"
+msgstr ""
+
+msgctxt ",9AB13D08A2796964CAA8B13E8AD5DD99"
+msgid "srart time 5s"
+msgstr ""
+
+msgctxt ",17FFA0A5F88CF45BF6E0945B98191373"
+msgid "srart time 8s"
+msgstr ""
+
+msgctxt ",AC0A01129A498A3A72C84A4868929D69"
+msgid "beam particle source/target"
+msgstr ""
+
+msgctxt ",42DFFA6007413CF3649CF50769BD9D1D"
+msgid "Directional_Control_Fire"
+msgstr ""
+
+msgctxt ",2D61413E7A51EFB4F0C0E35E1491EEE3"
+msgid "Beam_CandleFire_blueprints"
+msgstr ""
+
+msgctxt ",1A68BA87100CA932683E34F4B36FADE9"
+msgid "CandleFire_blueprints"
+msgstr ""
+
+msgctxt ",F7F99BA9CCAB6E4306DDD6A30A909831"
+msgid "BoneeFire_blueprints"
+msgstr ""
+
+msgctxt ",6C4CA44D0DF377CB012FE62E27386897"
+msgid "Basic_Example"
+msgstr ""
+
+msgctxt ",5B97D89509A32BD5D96F2FEF71DDB202"
+msgid "Niagara Reference with Blueprint"
+msgstr ""
+
+msgctxt ",7521FD611676409BE70732A5D8F21752"
+msgid "Skel Vert/Surf blueprints"
+msgstr ""
+
+msgctxt ",7D9D3949E438BEFA5C3EC44B6DEB35A9"
+msgid "Explosion blueprints"
+msgstr ""
+
+msgctxt ",036CDA80316D369AD8C941D2700E84C6"
+msgid "Niagara Test Level"
+msgstr ""
+
+msgctxt ",B6EF03759E0126EDDFD77FEE271B272F"
+msgid "Scale Test"
+msgstr ""
+
+msgctxt ",0DBE1C8E15F312E3105EB20A85F5DBBA"
+msgid "Fire&Flame_elements"
+msgstr ""
+
+msgctxt ",A566881280D1C5A6F65AB5C6674DE7C4"
+msgid "Worldoffset_material"
+msgstr ""
+
+msgctxt ",E74947CBE703593C99645E2F603F31A7"
+msgid "Tex_Distortion_material"
+msgstr ""
+
+msgctxt ",BA407A67CCFA79A14A07F3F4D7E47C6E"
+msgid "Fire&Flame"
+msgstr ""
+
+msgctxt ",C7A550E7E84BFF74137F36048F1E7E8A"
+msgid "Niagara Fire&Flame Reference"
+msgstr ""
+
+msgctxt ",61E9C06EA9A85A5088A499DF6458D276"
+msgid "W"
+msgstr ""
+
+msgctxt ",2FA73C074FEA316099936947D429DC1F"
+msgid "Gamapad Face Button Right"
+msgstr ""
+
+msgctxt ",0829EA6734059D66E6BF87096B215DC1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt ",7C71EAA5AD02A1034F15F99066EC1F12"
+msgid "Windowed F."
+msgstr ""
+
+msgctxt ",B13311AB51C4C34757F67F26580018DD"
+msgid "Windowed"
+msgstr ""
+
+msgctxt ",3A3EA00CFC35332CEDF6E5E9A32E94DA"
+msgid "E"
+msgstr ""
+
+msgctxt ",E3A24BCE9104185F7425E76BDBD153C7"
+msgid "Gamapad Face Button Top"
+msgstr ""
+
+msgctxt ",69A338429C5C5A365F50ED8C54D7A095"
+msgid "Space bar"
+msgstr ""
+
+msgctxt ",433597199AB84B11B74EEEEFE69CF346"
+msgid "Gamepad Face Button Bottom"
+msgstr ""
+
+msgctxt ",5DBC98DCC983A70728BD082D1A47546E"
+msgid "S"
+msgstr ""
+
+msgctxt ",89944DEA3B414A14B2D91BE38F7A86E8"
+msgid "Gamapad Face Button Left"
+msgstr ""
+
+msgctxt ",7FC56270E7A70FA81A5935B72EACBE29"
+msgid "A"
+msgstr ""
+
+msgctxt ",7B4A3AD33C3DDE527005AFD7EBCAFBA0"
+msgid "Gamapad Left Thumbstic X-Axis"
+msgstr ""
+
+msgctxt ",F623E75AF30E62BBD73D6DF5B50BB7B5"
+msgid "D"
+msgstr ""
+
+msgctxt ",7B4A3AD33C3DDE527005AFD7EBCAFBA0"
+msgid "Gamapad Left Thumbstic X-Axis"
+msgstr ""
+
+msgctxt ",ED8E769FD7413878AA80D21C0759961F"
+msgid "7680 x 4320"
+msgstr ""
+
+msgctxt ",18D39B3ECF1CF2144E4E54B48F2EA5E6"
+msgid "5120 x 3840"
+msgstr ""
+
+msgctxt ",4C3DE50B0F64D954936A727A7FA27D0E"
+msgid "1920 x 1080"
+msgstr ""
+
+msgctxt ",B0523F8D5C2788F189F6D7C7AD5E80F2"
+msgid "1600 x 900"
+msgstr ""
+
+msgctxt ",A4C951E64CB675132011C943F21F179C"
+msgid "1366 x 768"
+msgstr ""
+
+msgctxt ",23E769A7F06CF8D13D3F871FFDEE04F8"
+msgid "1280 x 720"
+msgstr ""
+
+msgctxt ",CE3B4B127EE466F4625445A482602286"
+msgid "800 x 600"
+msgstr ""
+
+msgctxt ",A1EC8095906F776CB35DBCD8099667A4"
+msgid "720 x 480"
+msgstr ""
+
+msgctxt ",B37030111FE75F652EB5F3EB7F0BCBB4"
+msgid "5120 x 3200"
+msgstr ""
+
+msgctxt ",5871CC0A290D656904342416F410C993"
+msgid "5120 x 2880"
+msgstr ""
+
+msgctxt ",ADF7133DD43D2E5F4A479CEDE4C75FAA"
+msgid "3840 x 2160"
+msgstr ""
+
+msgctxt ",F9F970345CAD5D88C4E60E6E348A1A6C"
+msgid "3440 x 1440"
+msgstr ""
+
+msgctxt ",0F0743E284273A54CF86B6C760D80411"
+msgid "3200 x 1800"
+msgstr ""
+
+msgctxt ",AB6EB0A6E802CC4E442890824D5AE93B"
+msgid "2560 x 1440"
+msgstr ""
+
+msgctxt ",38A4AA30EFF8996105A69250A7566D48"
+msgid "2560 x 1080"
+msgstr ""
+
+msgctxt ",DE4E06F75C28663CA7A5D67B73FD461E"
+msgid "1920 x 1200"
+msgstr ""
+
+msgctxt ",E202FF4EEB262B8154397DCC7DB7F6E6"
+msgid "r.setres 7680x4320"
+msgstr ""
+
+msgctxt ",AD603B8ABBA2E3977FA02361E6FE4E30"
+msgid "r.setres 5120x3840"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",4883FDECB0184CDEF21C0FAAE9453B40"
+msgid "r.setres 5120x3200"
+msgstr ""
+
+msgctxt ",B546B31F5CD68803A58953C6AA00A14B"
+msgid "r.setres 5120x2880"
+msgstr ""
+
+msgctxt ",DF143EC2039CDDE5FFE65EA7CCB2CB06"
+msgid "r.setres 3840x2160"
+msgstr ""
+
+msgctxt ",6CE5B348A6B90E0498D10AC35F88B14E"
+msgid "r.setres 3440x1440"
+msgstr ""
+
+msgctxt ",B536BEC6DD9B23B41F89D81750CE73C7"
+msgid "r.setres 3200x1800"
+msgstr ""
+
+msgctxt ",E88ED5DFC039678708B1E7E68151F639"
+msgid "r.setres 2560x1440"
+msgstr ""
+
+msgctxt ",B2D0736FD4D8451E80DDEEE52CCCF2C0"
+msgid "r.setres 2560x1080"
+msgstr ""
+
+msgctxt ",3C9F877077412D3FB9BD68E694E55162"
+msgid "r.setres 1920x1200"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",DAD94DBFB17895F5E551DE677ACB7CBB"
+msgid "Only in the full game."
+msgstr ""
+
+msgctxt ",20989C424A91E7973CDCAA8C8291B082"
+msgid "How to play?"
+msgstr ""
+
+msgctxt ",BB1CA97EC761FC37101737BA0AA2E7C5"
+msgid "ERROR"
+msgstr ""
+
+msgctxt ",BB1CA97EC761FC37101737BA0AA2E7C5"
+msgid "ERROR"
+msgstr ""
+
+msgctxt ",86D8D92ABA9ECF9BBF89F69CB3E49588"
+msgid "GG"
+msgstr ""
+
+msgctxt ",A42B2FB0E720A080E79A92F4CA97D927"
+msgid "EXIT"
+msgstr ""
+
+msgctxt ",BB1CA97EC761FC37101737BA0AA2E7C5"
+msgid "ERROR"
+msgstr ""
+
+msgctxt ",BB1CA97EC761FC37101737BA0AA2E7C5"
+msgid "ERROR"
+msgstr ""
+
+msgctxt ",86D8D92ABA9ECF9BBF89F69CB3E49588"
+msgid "GG"
+msgstr ""
+
+msgctxt ",B2F0AF91F1CCDBAAE425525F5103C2B5"
+msgid "GENERATOR"
+msgstr ""
+
+msgctxt ",C57719C36EDB29B9D83097B4B091AABB"
+msgid "OFFICE"
+msgstr ""
+
+msgctxt ",89B0C9362211B9B15390B22CFDE41D9D"
+msgid "OFFICES"
+msgstr ""
+
+msgctxt ",DE6EC497CC88C6D600DB1277F99DC2DA"
+msgid "OIL \r\nSTORAGE"
+msgstr ""
+
+msgctxt ",C79881E5661A04F7B797B78691E64440"
+msgid "SHOWERS"
+msgstr ""
+
+msgctxt ",FCD9D717CC3FC8841A43B96FA03966F2"
+msgid "STORAGE 1"
+msgstr ""
+
+msgctxt ",5CFEE749F3C9E3EAE931A90B1169EA0A"
+msgid "STORAGE 2"
+msgstr ""
+
+msgctxt ",808E30E23BC3DA074422326CA6BD307E"
+msgid "STORAGE 3"
+msgstr ""
+
+msgctxt ",269C5E9D3ED21C1AD8B3D80BBB48D1F1"
+msgid "STORAGE 4"
+msgstr ""
+
+msgctxt ",7E26DD4B3AB4B6666418E48929D1E20C"
+msgid "STORAGE\r\n5"
+msgstr ""
+
+msgctxt ",5AF1A3A285C2BDEE4192223E31E1F833"
+msgid "MAP"
+msgstr ""
+
+msgctxt ",4A61FBB78A5BDB0D85B9FE210A197CCE"
+msgid "WC\r\n1"
+msgstr ""
+
+msgctxt ",F31F4DA5EB460CE2C6AADEC5D7BBA6EA"
+msgid "WC\r\n2"
+msgstr ""
+
+msgctxt ",C2B8E9BE2240AFF80E997B3FACDAC284"
+msgid "PLAY\r\nSTOP"
+msgstr ""
+
+msgctxt ",88512A88100C22E54A61AAEC8ED842BA"
+msgid "Type your message here..."
+msgstr ""
+
+msgctxt ",680B5C5783DBB57572B68B73C714FDB1"
+msgid "Access denied!"
+msgstr ""
+
+msgctxt ",88512A88100C22E54A61AAEC8ED842BA"
+msgid "Type your message here..."
+msgstr ""
+
+msgctxt ",F827CF462F62848DF37C5E1E94A4DA74"
+msgid "True"
+msgstr ""
+
+msgctxt ",F8320B26D30AB433C5A54546D21F414C"
+msgid "False"
+msgstr ""
+
+msgctxt ",AAE1DA71E1820AFA2F8E90590E91D4F4"
+msgid "Task: Burnt bulbs"
+msgstr ""
+
+msgctxt ",7650E621EB4A400760578D2267D5C763"
+msgid "Task: Power Generator Shutdown"
+msgstr ""
+
+msgctxt ",6A9A850C706E94D2377560D42AAE7498"
+msgid "According to Lab Chapter 1900, Occupational Safety and Health. it is mandatory to keep emergency lighting functional and clean. Several emergency lights throughout the warehouse are lit very dimly or not at all, so you must change the bulb in those emergency lights. The bulbs are usually found in warehouse 5 and are in a small green box of one. Find the bulbs and replace them in the emergency lights."
+msgstr ""
+
+msgctxt ",4088723CE0CDC9A15A7ACE28CBAE9A49"
+msgid "Task: Object inspection."
+msgstr ""
+
+msgctxt ",C38DD2E697B0C11A09507837B7680EE7"
+msgid "An alarm was set off in the offices but security systems say it was a mistake. Go to the offices and turn off the alarm. Then you need to go through the entire building and make sure no one is here. Then the task will be completed."
+msgstr ""
+
+msgctxt ",9F4C688760A428C45E30A822BD86288F"
+msgid "Task: Maintenance of fire extinguishers."
+msgstr ""
+
+msgctxt ",74F5A67B659A32007D0F8A38D4CDC7BD"
+msgid "By law, fire extinguishers must be kept working and clean. There is always one fire extinguisher on the Emergency Boards. This must be replaced with a new one. Take the old fire extinguishers and put them in the wooden box by the main gate. New fire extinguishers can be found in storage room 4 in one of the rooms. Take them and put them on the Emergency Boards. Once all the fire extinguishers on the Emergency Boards have been replaced, the task will be completed."
+msgstr ""
+
+msgctxt ",F69731E85E0C52687F432A43B9826A65"
+msgid "Task: Maintenance of flashlights."
+msgstr ""
+
+msgctxt ",A347A3657C3D1B54AA316841D20FFD44"
+msgid "By law, you must keep emergency flashlights operational. There is always one flashlight on the Emergency Boards. It needs to be charged because it will probably be dead. To charge it, you must use the special fast chargers located in Storage Room 4 in one of the rooms. After charging the flashlight, return it to the emergency board. Once all flashlights on all Emergency Boards are charged, the task will be completed."
+msgstr ""
+
+msgctxt ",D60E1AB149FDAE691CF40718168DD394"
+msgid "Task: Violation of Security Systems"
+msgstr ""
+
+msgctxt ",C2DCE79B68D15A74DC6DB38DF3DBF9F7"
+msgid "An unauthorized person entered the building. He breached the security system and set off the alarm. You need to disarm the alarm and detain the person. Be careful, he could be dangerous. The task will be completed once the person has been apprehended and the alarms have been disabled."
+msgstr ""
+
+msgctxt ",88B7B823CCA7F6D8305F1482542B984D"
+msgid "Task: Maintenance of the Disinfectant."
+msgstr ""
+
+msgctxt ",A26B98785CD7A2545849FC1285D116E0"
+msgid "The power supply to some of the electrical equipment has failed. It is necessary to restart the power generator manually. Go to the power generator and restart it. After shutting down the power generator, you will need to disconnect all computers from the power grid so that they do not crash when the power generator is restarted. I understand it's a retarded system, but there's no other way. Once all the computers have been unplugged, turn the power generator back on."
+msgstr ""
+
+msgctxt ",31F710C90DE2AF26E91A54AAB3D2042F"
+msgid "By law, it is necessary to keep the disinfectant clean and full. There is always one disinfectant on the Emergency Boards. This must be replaced with a new one. Remove the old disinfectant and place it in the wooden box by the main gate. New disinfectants can be found in the oil store. Take them and put them on the Emergency Boards. Once all the disinfectants on the Emergency Boards have been replaced, the task will be completed."
+msgstr ""
+
+msgctxt ",89B2AECFDE55599075A9A31F2D50EFC1"
+msgid "Task: Fixing a leaking toilet."
+msgstr ""
+
+msgctxt ",2AC24610A924DA9E0FA41F1794F6EC5B"
+msgid "There's a leaking toilet in the men's room. Find the tools to fix the toilet and fix the toilet. I don't know where the tools are, but look in a workshop somewhere. I'll give you an idea of what it looks like. You'll need a long red wrench. When you find it, find the leaking toilet and fix it properly. Then you'll have accomplished the task."
+msgstr ""
+
+msgctxt ",157DFFAA19CD1EB41F9D062A96B51617"
+msgid "In warehouse 4, several light bulbs were burned out, probably some asshole was playing with the voltage in the power grid again. The bulbs need to be replaced. You'll find boxes of bulbs in random places around the warehouse, marked in yellow with a picture of the bulb. Replace the damaged bulbs in the lights and replace them with new ones."
+msgstr ""
+
+msgctxt ",AFB6990D9BC8CFBCC14F4CCF1E3BF50F"
+msgid "Task: New product!"
+msgstr ""
+
+msgctxt ",8BD9ED28988B9F8ACCDA7FC88A8B6545"
+msgid "They've imported new goods! Go check it out, they say it's some kind of robot, new technology or something. Brown's a sucker for new stuff. I don't know exactly what it does, but if you miss it, you're in fucking trouble. Put it back in the box and close it up. I just want you to check it, not destroy it."
+msgstr ""
+
+msgctxt ",5B9EFCEA2852B7985710B17439222CE7"
+msgid "Task: Restore electrical circuits."
+msgstr ""
+
+msgctxt ",48CD4206A1D4B9E872B4BB07D6754B03"
+msgid "In front of the door to the offices there is a substation for electrical circuits. There are 4 buttons and 2 levers. Each of the buttons can only be activated if you restore power to the electrical circuit of that button. To restore the electrical circuit, find the circuit substation and activate it with the lever, then press the red lit button next to the electrical circuit substation. Once you have activated all the electrical circuits and pressed all the buttons in the electrical circuit substation, you will be able to activate two levers."
+msgstr ""
+
+msgctxt ",1DCF9A4A10BB95B09448306A6AB4730E"
+msgid "Task: Maintenance of emergency lighting."
+msgstr ""
+
+msgctxt ",55577E551478E3320C8B0C1D9AFCBEA8"
+msgid "Voice status:"
+msgstr ""
+
+msgctxt ",EF615563C8E8EA902C7FCAC3CD2C4246"
+msgid "Tasks"
+msgstr ""
+
+msgctxt ",7D4D63B04D2C574F32B8B350A94AA02F"
+msgid "Camera System"
+msgstr ""
+
+msgctxt ",D4B145E55BCE638B75FC36A819EA8513"
+msgid "t.n.4"
+msgstr ""
+
+msgctxt ",44AC15D91689DDE0955CEF4CBDD31635"
+msgid "POWER:"
+msgstr ""
+
+msgctxt ",3A554238623D8BFB635FFB2B6ED36901"
+msgid "t.n.5"
+msgstr ""
+
+msgctxt ",0E745E449FED25D903988BAEBAF7E5E5"
+msgid "t.n.2"
+msgstr ""
+
+msgctxt ",2B5AC24E3B2D51A8C1ADA41EBB8E6FF0"
+msgid "t.n.3"
+msgstr ""
+
+msgctxt ",5D128CAA44E925C0944B425E1D29C0A8"
+msgid "t.n.6"
+msgstr ""
+
+msgctxt ",FC932C03A97356BA366757BD1C2CDCD6"
+msgid "t.n.7"
+msgstr ""
+
+msgctxt ",832C2DCB12F8710B51AB98BE6A43BA23"
+msgid "t.n.11"
+msgstr ""
+
+msgctxt ",31B072AD56464C199CC0D130B2C18C72"
+msgid "t.n.10"
+msgstr ""
+
+msgctxt ",79F7C8A013D63DB13ADD1980CEB87D0C"
+msgid "t.n.8"
+msgstr ""
+
+msgctxt ",BBBACB346521E748C27BDA1E04280135"
+msgid "t.n.9"
+msgstr ""
+
+msgctxt ",4771B065CF69E90EC8E37DEF064A4FF7"
+msgid "Light System"
+msgstr ""
+
+msgctxt ",BF2C44E6FC09515648B91B1BB4EC3F5F"
+msgid "Flash"
+msgstr ""
+
+msgctxt ",F827CF462F62848DF37C5E1E94A4DA74"
+msgid "True"
+msgstr ""
+
+msgctxt ",EF615563C8E8EA902C7FCAC3CD2C4246"
+msgid "Tasks"
+msgstr ""
+
+msgctxt ",88512A88100C22E54A61AAEC8ED842BA"
+msgid "Type your message here..."
+msgstr ""
+
+msgctxt ",CAB89D0E605453A9B5D22C031860C103"
+msgid "Tasks done:"
+msgstr ""
+
+msgctxt ",E6192018B4E181E0D902521A18BF4891"
+msgid "t.n.1"
+msgstr ""
+
+msgctxt ",90651EBEA9A35EC4E018C8157492E17C"
+msgid "ON"
+msgstr ""
+
+msgctxt ",88559A0CFD8250C9D65970CC145C92D4"
+msgid "OFF"
+msgstr ""
+
+msgctxt ",9DE6D0A670AE5A0DEE31A6318AA00E8D"
+msgid "ALARM"
+msgstr ""
+
+msgctxt ",DAEE6EEB37CAE6F7C5395B6DBAF00565"
+msgid "Press Any Key..."
+msgstr ""
+
+msgctxt ",0DECA4D54351080DF8D5897F900A4C8C"
+msgid "Use \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",F276F2F493EA2310849F5B32540F966B"
+msgid "\" to deactivade alarm."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",855279E999C3B64F440F75CB5D78CC07"
+msgid "\" to enter/exit the car"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",C5E31F0F2CA2ECEE752AE56C159CB0FD"
+msgid "\" to open / close"
+msgstr ""
+
+msgctxt ",705D0A1AADDD49BE6323AF9855D203F4"
+msgid "Find the exit!"
+msgstr ""
+
+msgctxt ",396D2B09C8C9DB8CA5E9E8FACD5E0296"
+msgid "You're tired! Go buy some food from the vending machine."
+msgstr ""
+
+msgctxt ",396D2B09C8C9DB8CA5E9E8FACD5E0296"
+msgid "You're tired! Go buy some food from the vending machine."
+msgstr ""
+
+msgctxt ",F5722B243D09A803BF9AB83C7E7FF527"
+msgid "Find a security office"
+msgstr ""
+
+msgctxt ",051A14A6A1B7D576703F87B9EC884D06"
+msgid "Find the power generator!"
+msgstr ""
+
+msgctxt ",7FC56270E7A70FA81A5935B72EACBE29"
+msgid "A"
+msgstr ""
+
+msgctxt ",0DB2E7F5117265B9C378082D457A52C2"
+msgid "Use the \""
+msgstr ""
+
+msgctxt ",5DBC98DCC983A70728BD082D1A47546E"
+msgid "S"
+msgstr ""
+
+msgctxt ",EC6E7970406C5C21432B5C11DA5160D8"
+msgid "\" to pick up and use items."
+msgstr ""
+
+msgctxt ",324977D56CEF1DED30C49A57D9B64850"
+msgid "\" keys and \""
+msgstr ""
+
+msgctxt ",739FE21361B62C493605F8A740F361D7"
+msgid "Scroll Up"
+msgstr ""
+
+msgctxt ",F623E75AF30E62BBD73D6DF5B50BB7B5"
+msgid "D"
+msgstr ""
+
+msgctxt ",8B519611C1C14E9472D051CB119898FF"
+msgid "Scroll Down"
+msgstr ""
+
+msgctxt ",800618943025315F869E4E1F09471012"
+msgid "F"
+msgstr ""
+
+msgctxt ",04F1D642A84CF354634AF8BB0DDDA016"
+msgid "\" to turn on the flashlight."
+msgstr ""
+
+msgctxt ",69A338429C5C5A365F50ED8C54D7A095"
+msgid "Space bar"
+msgstr ""
+
+msgctxt ",99CF1B6779849DF87A06E6A754ADB1F5"
+msgid "Left Ctrl"
+msgstr ""
+
+msgctxt ",825A3D98017BAB11815AD2817201324C"
+msgid "Shift"
+msgstr ""
+
+msgctxt ",99136F55C2D803527A19226983D1C41C"
+msgid "\" to Sprint."
+msgstr ""
+
+msgctxt ",8ECCE5C5BDAC8226DBA33D356BD24007"
+msgid "\" to Crouch and press \""
+msgstr ""
+
+msgctxt ",40203ABE6E81ED98CBC97CDD6EC4F144"
+msgid "mouse"
+msgstr ""
+
+msgctxt ",61E9C06EA9A85A5088A499DF6458D276"
+msgid "W"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",F1FBC6AE621F7A1341D2CD876E8CD717"
+msgid "Left mouse button"
+msgstr ""
+
+msgctxt ",B0BBE0DEFD3F70EFF2A736F1EE5844B7"
+msgid "\" keys to move and the \""
+msgstr ""
+
+msgctxt ",469DE85B6BABE6C5897C5F07FED81AA9"
+msgid "\" to look."
+msgstr ""
+
+msgctxt ",68CEEE6715D75E1F2C7D6FBD60A0C101"
+msgid "\" keys to switch slots in inventory."
+msgstr ""
+
+msgctxt ",04805DB0A4AF931BB27DFD4B007BC6BE"
+msgid "Flashlight cannot be dropped!"
+msgstr ""
+
+msgctxt ",AC5A7FFC82F76B84F428F22D0892AA96"
+msgid "The weapon is no longer usable!"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",C579DF1A2B57BE95503A36C1BAF65CA4"
+msgid "\" for aiming."
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",2E4F8722AB3BFD66DE07377C69EA64B3"
+msgid "\" to fire."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",5E5B67E84F63465879B5F4C1656A2B6E"
+msgid "\" to open/move"
+msgstr ""
+
+msgctxt ",E607331900985284CEA97E3767D919D8"
+msgid "You're low on health! Go find something to eat."
+msgstr ""
+
+msgctxt ",A8AB7210423D5E2DC196D138F63F08DE"
+msgid "You don't have any Orbs!"
+msgstr ""
+
+msgctxt ",8531F722A497EF88A22F4D8E7984723B"
+msgid "You don't have any key fragments!"
+msgstr ""
+
+msgctxt ",A5E898D96D20D4A2D95727DFC31B5F2B"
+msgid "You have to find the fragments of the key and assemble the key!"
+msgstr ""
+
+msgctxt ",15805710A87F029F82D7BC5B3F4509ED"
+msgid "You have to create a key first!"
+msgstr ""
+
+msgctxt ",3462EC4FF4F6C5E8B06D50DB10E53CE5"
+msgid "Incorrect card!"
+msgstr ""
+
+msgctxt ",255D749E57BCF699225A91D793230E73"
+msgid "Your inventory is full!"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",DA7A0649E58B5B02C22C03CEF1B2039E"
+msgid "\" to drive."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",01D9170422B5DCEB6EA99D9DC16F2AA6"
+msgid "\" to turn on or off."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",E70ED7EAD6D1027484FC7EC3D17ACEC5"
+msgid "\" to use the item."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",247FB966C6374C991ED76C80AD037FC7"
+msgid "What is Project 34?"
+msgstr ""
+
+msgctxt ",E6EA2065D4F57EDC8199EF513FF1EB26"
+msgid "I wonder where she's gone that Brown's still looking for her."
+msgstr ""
+
+msgctxt ",B32F3EC2FEE88D99A02399D151D6D5D0"
+msgid "Brown is crazy!"
+msgstr ""
+
+msgctxt ",EDF5472A2368CBE79F769880A834B7A5"
+msgid "\" to Whistle and use"
+msgstr ""
+
+msgctxt ",BCA9FB07C904EEA3000307A10B5134C3"
+msgid "Today is June 2014. How long has it been since the SRF closed?"
+msgstr ""
+
+msgctxt ",19BE41717E6AE6313E14609528D9F235"
+msgid "SFR was closed in 1990"
+msgstr ""
+
+msgctxt ",09102A29465B065F2378E935D6B0D0E7"
+msgid "Brown built all this after his parents died!"
+msgstr ""
+
+msgctxt ",29ABE1D523A66E7C83FD82D02C3095A6"
+msgid "Samuel Brown!"
+msgstr ""
+
+msgctxt ",B6D45347A1CA4B47D2E883D7E8ABAD7D"
+msgid "Tony was Sam's grandfather."
+msgstr ""
+
+msgctxt ",72A7CEB8F7E9AA170DA24A9D7C14D7FA"
+msgid "Karl Brown and Lusy Brown are dead"
+msgstr ""
+
+msgctxt ",06362742005D53E4AA2F16114AF87BAE"
+msgid "Their daughter murdered them"
+msgstr ""
+
+msgctxt ",277A4045446BFD13E3C7A5096DB9D26C"
+msgid "Tony never came back"
+msgstr ""
+
+msgctxt ",A8AE74FCC5FFE137FB81A0FE4AA41C3A"
+msgid "\" to Fart"
+msgstr ""
+
+msgctxt ",237678F0A27F6E884F9E04045C945D6C"
+msgid "\" to Finger Snap"
+msgstr ""
+
+msgctxt ",6D16C7C6EF4B3221A317F08E9E688295"
+msgid "\" to Spit"
+msgstr ""
+
+msgctxt ",FEFFB14CE6C844E85053A74E82E9F543"
+msgid "How did Sam, such a crybaby, become such a powerful man?"
+msgstr ""
+
+msgctxt ",14F802E1FBA977727845E8872C1743A7"
+msgid "keys"
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",F8F84EEDD76E60312B8CF557B2425263"
+msgid "Why was Project 34 implemented in the first place?"
+msgstr ""
+
+msgctxt ",FD4940F226C8BA7117F01B7C2FA81F3C"
+msgid "\" to Burps"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",8F47CF4A39037EBFE4487AC1EE60BA32"
+msgid "\" to reset the combination."
+msgstr ""
+
+msgctxt ",0DECA4D54351080DF8D5897F900A4C8C"
+msgid "Use \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",89AEF0B6E60A5A513264B57072974FBD"
+msgid "\" to Restart Power Generator."
+msgstr ""
+
+msgctxt ",49DF741FDD3214E3235AAE1B6DCC38A3"
+msgid "Find and restart the power generator!"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",65C564B48A051B00F2D6581B92422D87"
+msgid "\" to set the combination."
+msgstr ""
+
+msgctxt ",0DECA4D54351080DF8D5897F900A4C8C"
+msgid "Use \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",4F12F8EEA7742B5DFA7FD384E78A5707"
+msgid "\" to take the bulbs."
+msgstr ""
+
+msgctxt ",A1A7C16E86228668B602E19163F2B81E"
+msgid "Find the Repair key!"
+msgstr ""
+
+msgctxt ",E1E1D3D40573127E9EE0480CAF1283D6"
+msgid "R"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",98C9CA6CEFED285F0DF302B0926FCDA8"
+msgid "\" to repair the toilet"
+msgstr ""
+
+msgctxt ",1D3989A9457AB106B57B528CD582E47F"
+msgid "you need to activate the 2 corresponding electrical boxes To activate the main button!"
+msgstr ""
+
+msgctxt ",BE439E20057B0DDB387775261EC155B7"
+msgid "You need to activate all the main buttons to activate the lever!"
+msgstr ""
+
+msgctxt ",0EF9C0D09E2D6DE13B08E36893CA816F"
+msgid "You need to activate the appropriate button to activate the electrical box!"
+msgstr ""
+
+msgctxt ",97FCAE4F21F015059AB8FFB811C9308E"
+msgid "The flashlight needs a charge!"
+msgstr ""
+
+msgctxt ",97FCAE4F21F015059AB8FFB811C9308E"
+msgid "The flashlight needs a charge!"
+msgstr ""
+
+msgctxt ",97FCAE4F21F015059AB8FFB811C9308E"
+msgid "The flashlight needs a charge!"
+msgstr ""
+
+msgctxt ",E488D8B722228856A410258F3D711A8D"
+msgid "The flashlight cannot be charged when the electricity is not working!"
+msgstr ""
+
+msgctxt ",0E65A224E4C10DD461AFA2BD5D76AAD4"
+msgid "Don't drown!"
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",94B777A564101767B2BC3AB0FE989566"
+msgid "\" to drink."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",5197BE53E013E8BB453F50C32C18BB6A"
+msgid "\" to drop money into the vending machine."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",FD99CED9A8DD819554004AD6F3D566C9"
+msgid "\" to eat."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",C487CD954F089CF74A86E565C0B2D3AF"
+msgid "\" to interact with the object."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",74663B0211C656FD51209610C34C0F6B"
+msgid "\" to pick up the item."
+msgstr ""
+
+msgctxt ",62628BDA14CB645537EE85C4DBC780D0"
+msgid "Press \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",DDDA1137E08BADD3C2A627877F4C0608"
+msgid "\" to take the coins."
+msgstr ""
+
+msgctxt ",505AB6D764112399CC3A530392A236D3"
+msgid "You must wait"
+msgstr ""
+
+msgctxt ",0DECA4D54351080DF8D5897F900A4C8C"
+msgid "Use \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",AD81EB9EE6BCA0AF3F1B963C098B2A18"
+msgid "\" or \""
+msgstr ""
+
+msgctxt ",08723F8E417FB0FCFA871D8F7D250434"
+msgid "\" to turn on the flashlight"
+msgstr ""
+
+msgctxt ",F7507B1F082D5A680CB55AFDC9F4A8A8"
+msgid "At present, communication is by Walkie-talkie only. Proximity voice chat will be added in the future."
+msgstr ""
+
+msgctxt ",006D9106514F4404B3D038563ADE0703"
+msgid "You need at least one bulb to fix the light."
+msgstr ""
+
+msgctxt ",B5BE4B9EEDC4DE19E141F9D9B20E2DD3"
+msgid "RUN!   RUN!   RUN!   RUN!   RUN!"
+msgstr ""
+
+msgctxt ",89B0C9362211B9B15390B22CFDE41D9D"
+msgid "OFFICES"
+msgstr ""
+
+msgctxt ",5AF1A3A285C2BDEE4192223E31E1F833"
+msgid "MAP"
+msgstr ""
+
+msgctxt ",C79881E5661A04F7B797B78691E64440"
+msgid "SHOWERS"
+msgstr ""
+
+msgctxt ",DE6EC497CC88C6D600DB1277F99DC2DA"
+msgid "OIL \r\nSTORAGE"
+msgstr ""
+
+msgctxt ",FCD9D717CC3FC8841A43B96FA03966F2"
+msgid "STORAGE 1"
+msgstr ""
+
+msgctxt ",5CFEE749F3C9E3EAE931A90B1169EA0A"
+msgid "STORAGE 2"
+msgstr ""
+
+msgctxt ",808E30E23BC3DA074422326CA6BD307E"
+msgid "STORAGE 3"
+msgstr ""
+
+msgctxt ",269C5E9D3ED21C1AD8B3D80BBB48D1F1"
+msgid "STORAGE 4"
+msgstr ""
+
+msgctxt ",B7AD264E39ACC40F9DCDAA3F2B233EC7"
+msgid "STORAGE 5"
+msgstr ""
+
+msgctxt ",B2F0AF91F1CCDBAAE425525F5103C2B5"
+msgid "GENERATOR"
+msgstr ""
+
+msgctxt ",C57719C36EDB29B9D83097B4B091AABB"
+msgid "OFFICE"
+msgstr ""
+
+msgctxt ",100B8CAD7CF2A56F6DF78F171F97A1EC"
+msgid "any"
+msgstr ""
+
+msgctxt ",0610123BDD4FFC191A3EA05A847E1307"
+msgid "Press"
+msgstr ""
+
+msgctxt ",0839D20A589C74EB461ADBED71774C0C"
+msgid "key!"
+msgstr ""
+
+msgctxt ",A5B64EE05051086BC44F24D19A1E8099"
+msgid "WW_Help v Game_PC"
+msgstr ""
+
+msgctxt ",C79046787BA5BD8F29FC75331B2667A7"
+msgid "Find a place to connect the parts of the key!"
+msgstr ""
+
+msgctxt ",96503AA30D042E9BBE02F951036A717D"
+msgid "Go back to the main gate and open it!"
+msgstr ""
+
+msgctxt ",7AD056450F6B1D09DACBB680D1CA7C05"
+msgid "Demo Completed!"
+msgstr ""
+
+msgctxt ",340C2F4DEFB23E4A8E9D9B8F2F7A4095"
+msgid "For more quests, go to the full version of the game. \r\nBut this is not all! The game contains a total of 3 tasks, Play again!"
+msgstr ""
+
+msgctxt ",6ACB2D534D2FADEB24067CCAABBA755C"
+msgid "Back to menu"
+msgstr ""
+
+msgctxt ",311090F4766C33531D2A0C4FF60155AD"
+msgid "Full Version"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",BD6DBD063F5AB7394879E3C08781CD72"
+msgid "DEMO"
+msgstr ""
+
+msgctxt ",B1A326C06D88BF042F73D70F50197905"
+msgid "END"
+msgstr ""
+
+msgctxt ",DC647EB65E6711E155375218212B3964"
+msgid "Password"
+msgstr ""
+
+msgctxt ",2B15AEB95568F3E2C8B3F97572D917E2"
+msgid "Lobby Description"
+msgstr ""
+
+msgctxt ",DC647EB65E6711E155375218212B3964"
+msgid "Password"
+msgstr ""
+
+msgctxt ",D1AAFA383C4C45FFC2A98BF1BB8B080D"
+msgid "Public Lobbies"
+msgstr ""
+
+msgctxt ",77B19127D8BDEE0C5693723499775343"
+msgid "Lobby Setup"
+msgstr ""
+
+msgctxt ",52B01188B0DAD414A0CC00F3370587F1"
+msgid "Player Count"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",26F7414A3FAF139C81FD0934DD63EBB8"
+msgid "search lobbies"
+msgstr ""
+
+msgctxt ",64047B72F1A5702D5FE70452DB56A3B2"
+msgid "Find Lobby"
+msgstr ""
+
+msgctxt ",36E3402E4DDEF43E92B99AEF016C057E"
+msgid "Short Description"
+msgstr ""
+
+msgctxt ",686E697538050E4664636337CC3B834F"
+msgid "Create"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",52B01188B0DAD414A0CC00F3370587F1"
+msgid "Player Count"
+msgstr ""
+
+msgctxt ",1C07F24DBAEB847F4662960D2691D528"
+msgid "Host Name"
+msgstr ""
+
+msgctxt ",ADCEA7A2BF0C5E177ABBB86E265F2A3A"
+msgid "Create Lobby"
+msgstr ""
+
+msgctxt ",E893BDED7C7FEA1EFFDE02E8F0131CBE"
+msgid "Map Name"
+msgstr ""
+
+msgctxt ",15BE13E50ADA2AF51C2FE6B3502F17D8"
+msgid "Lobby Type"
+msgstr ""
+
+msgctxt ",9A44A74C3C2723443A74E9E407CF59E0"
+msgid "Beta 0.1.0"
+msgstr ""
+
+msgctxt ",EC56AF1ECF0BD6E5415E9830DDB20E6D"
+msgid "First Person Template"
+msgstr ""
+
+msgctxt ",0DECA4D54351080DF8D5897F900A4C8C"
+msgid "Use \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",AD81EB9EE6BCA0AF3F1B963C098B2A18"
+msgid "\" or \""
+msgstr ""
+
+msgctxt ",3B5949E0C26B87767A4752A276DE9570"
+msgid "KEY"
+msgstr ""
+
+msgctxt ",08723F8E417FB0FCFA871D8F7D250434"
+msgid "\" to turn on the flashlight"
+msgstr ""
+
+msgctxt ",E9C0EDE8DB5652485972B39EDBA501B9"
+msgid "Credit:"
+msgstr ""
+
+msgctxt ",6AB0461982F82FE5BC6C71E6FAEF45B3"
+msgid "MAR"
+msgstr ""
+
+msgctxt ",251BD8143891238ECEDC306508E29017"
+msgid "Games"
+msgstr ""
+
+msgctxt ",9380371C65982C89E992DBB1777634C1"
+msgid "PAIN"
+msgstr ""
+
+msgctxt ",24D459A81449D7210C8F9A86C2913034"
+msgid "NEW"
+msgstr ""
+
+msgctxt ",CB5210A0709C7BDC5264C3D86864B14A"
+msgid "HORROR"
+msgstr ""
+
+msgctxt ",4504E1ED59CD9732B8A844E5424E6F13"
+msgid "GAME"
+msgstr ""
+
+msgctxt ",7FB55ED0B7A30342BA6DA306428CAE04"
+msgid "First"
+msgstr ""
+
+msgctxt ",ACA10ECE993488F9B58B7F392C45B205"
+msgid "shots"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",E9C0EDE8DB5652485972B39EDBA501B9"
+msgid "Credit:"
+msgstr ""
+
+msgctxt ",6AB0461982F82FE5BC6C71E6FAEF45B3"
+msgid "MAR"
+msgstr ""
+
+msgctxt ",251BD8143891238ECEDC306508E29017"
+msgid "Games"
+msgstr ""
+
+msgctxt ",9380371C65982C89E992DBB1777634C1"
+msgid "PAIN"
+msgstr ""
+
+msgctxt ",24D459A81449D7210C8F9A86C2913034"
+msgid "NEW"
+msgstr ""
+
+msgctxt ",CB5210A0709C7BDC5264C3D86864B14A"
+msgid "HORROR"
+msgstr ""
+
+msgctxt ",4504E1ED59CD9732B8A844E5424E6F13"
+msgid "GAME"
+msgstr ""
+
+msgctxt ",7FB55ED0B7A30342BA6DA306428CAE04"
+msgid "First"
+msgstr ""
+
+msgctxt ",ACA10ECE993488F9B58B7F392C45B205"
+msgid "shots"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",E9C0EDE8DB5652485972B39EDBA501B9"
+msgid "Credit:"
+msgstr ""
+
+msgctxt ",6AB0461982F82FE5BC6C71E6FAEF45B3"
+msgid "MAR"
+msgstr ""
+
+msgctxt ",251BD8143891238ECEDC306508E29017"
+msgid "Games"
+msgstr ""
+
+msgctxt ",9380371C65982C89E992DBB1777634C1"
+msgid "PAIN"
+msgstr ""
+
+msgctxt ",24D459A81449D7210C8F9A86C2913034"
+msgid "NEW"
+msgstr ""
+
+msgctxt ",CB5210A0709C7BDC5264C3D86864B14A"
+msgid "HORROR"
+msgstr ""
+
+msgctxt ",4504E1ED59CD9732B8A844E5424E6F13"
+msgid "GAME"
+msgstr ""
+
+msgctxt ",7FB55ED0B7A30342BA6DA306428CAE04"
+msgid "First"
+msgstr ""
+
+msgctxt ",ACA10ECE993488F9B58B7F392C45B205"
+msgid "shots"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",5AF1A3A285C2BDEE4192223E31E1F833"
+msgid "MAP"
+msgstr ""
+
+msgctxt ",E391A8D3B9DF894827AC8F510993492D"
+msgid "TASKS"
+msgstr ""
+
+msgctxt ",639BAE9AC6B3E1A84CEBB7B403297B79"
+msgid "you"
+msgstr ""
+
+msgctxt ",5AF1A3A285C2BDEE4192223E31E1F833"
+msgid "MAP"
+msgstr ""
+
+msgctxt ",E391A8D3B9DF894827AC8F510993492D"
+msgid "TASKS"
+msgstr ""
+
+msgctxt ",639BAE9AC6B3E1A84CEBB7B403297B79"
+msgid "you"
+msgstr ""
+
+msgctxt ",2C19D7BDEA77BF606C98814491B6EB13"
+msgid "Create Session"
+msgstr ""
+
+msgctxt ",DEE332F8913BBB9B57F24CE8E9526735"
+msgid "Auto Find Session"
+msgstr ""
+
+msgctxt ",3BC5BB75F8B088A8AB184FF49A6DC35F"
+msgid "map_EZ"
+msgstr ""
+
+msgctxt ",4111BEC20429354D7159CFAD5765149A"
+msgid "UnReady"
+msgstr ""
+
+msgctxt ",E7D31FC0602FB2EDE144D18CDFFD816B"
+msgid "Ready"
+msgstr ""
+
+msgctxt ",E7D31FC0602FB2EDE144D18CDFFD816B"
+msgid "Ready"
+msgstr ""
+
+msgctxt ",2BAA69EAFC7204F3BD8648EBA580C489"
+msgid "READY"
+msgstr ""
+
+msgctxt ",2BAA69EAFC7204F3BD8648EBA580C489"
+msgid "READY"
+msgstr ""
+
+msgctxt ",96A8E161C20F38E02BD3FE2F1183E35D"
+msgid "UNREADY"
+msgstr ""
+
+msgctxt ",32A406A139D52B97DABA3DDA8136AB61"
+msgid "Start Match"
+msgstr ""
+
+msgctxt ",332EE981D9BAEBF0546174555353D567"
+msgid "Leave Lobby"
+msgstr ""
+
+msgctxt ",C58828E23FA5360F606329C855F587F2"
+msgid "Switch Character"
+msgstr ""
+
+msgctxt ",F0BA6F7CDA1AFE69B5B7AC2DF2D35B05"
+msgid "Press \"X\" to speak"
+msgstr ""
+
+msgctxt ",E7D31FC0602FB2EDE144D18CDFFD816B"
+msgid "Ready"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",F2202BCDBE7E4C3A6FE0B703EB0A03BA"
+msgid "Galactic Support"
+msgstr ""
+
+msgctxt ",ABC4670946332781ED727635B031B798"
+msgid "NOT READY"
+msgstr ""
+
+msgctxt ",2BAA69EAFC7204F3BD8648EBA580C489"
+msgid "READY"
+msgstr ""
+
+msgctxt ",49EE3087348E8D44E1FEDA1917443987"
+msgid "Name"
+msgstr ""
+
+msgctxt ",ABC4670946332781ED727635B031B798"
+msgid "NOT READY"
+msgstr ""
+
+msgctxt ",02129BB861061D1A052C592E2DC6B383"
+msgid "X"
+msgstr ""
+
+msgctxt ",0C583FA611A6E30E8E9812ABD90C485F"
+msgid "Please note that you are playing the demo version."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",48462ACB81262C3AD95BDF64FABB1012"
+msgid "Camera System is only in the full game."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",71CDC14A7282C431153A14C45ED42D86"
+msgid "Full Game"
+msgstr ""
+
+msgctxt ",CD00748EDA6DD76975148D64CEF69DAA"
+msgid "This character is only in the full game."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",71CDC14A7282C431153A14C45ED42D86"
+msgid "Full Game"
+msgstr ""
+
+msgctxt ",98FE40622BBDB2E598F3E4A54D055633"
+msgid "This feature is not available in Demo."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",71CDC14A7282C431153A14C45ED42D86"
+msgid "Full Game"
+msgstr ""
+
+msgctxt ",C5D1D62DD8CA8FD479D578C3D838DB72"
+msgid "Congratulations! You have finished the demo! \r\nYou need the full game to continue!"
+msgstr ""
+
+msgctxt ",23DEE1CBA2FDEA7CA75C12FE6763E156"
+msgid "Galactic warning!"
+msgstr ""
+
+msgctxt ",F3D8416383C3F15B968F2B28CBA03973"
+msgid "Back to Menu"
+msgstr ""
+
+msgctxt ",5B74B3EE424E2A2E2D7126A5353AD8A0"
+msgid "Full game"
+msgstr ""
+
+msgctxt ",90276F51934CC0EE6B4972C80116B8FE"
+msgid "Light System is only in the full game."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",71CDC14A7282C431153A14C45ED42D86"
+msgid "Full Game"
+msgstr ""
+
+msgctxt ",6ABAFBBE87F50AE56449D5C82E4F6D4D"
+msgid "Some features such as multiplayer are still in development.\r\nIf it doesn't work, please contact support."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",5C24C8A6797E674353CE220FC8C42E67"
+msgid "Not available in demo!"
+msgstr ""
+
+msgctxt ",78E6C5D38DB2ED7EB62100925D8D9027"
+msgid "Multiplayer is currently only available in \r\nthe Steam version of the game!"
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",0F80221C1E4BDE272F328C7C0DF5A0C1"
+msgid "Steam Page"
+msgstr ""
+
+msgctxt ",3107A084BBA5C437415E9DD5A037F31B"
+msgid "Epic Games multiplayer is in the early stages of development, \r\nso it may not work properly."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",28C8D4EA94E6716446A26BCE56126019"
+msgid "Find the anomalies and mark them..."
+msgstr ""
+
+msgctxt ",DD51FA6E45169FF82159C780E463A1A8"
+msgid "All your save slots are full! To start a new game \r\nyou must remove at least one!"
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",0800146402D51FE26246D9E988A10A7C"
+msgid "In order for your friend to connect, you may need to enable \r\nconnecting in multiplayer games. If even the instructions don't help contact us!"
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",3E988A952A29C13A66CE43E24573A010"
+msgid "How?"
+msgstr ""
+
+msgctxt ",C837C96C8E4AFCC79CE796BA82C57ED3"
+msgid "At least one of the players must be a killer!"
+msgstr ""
+
+msgctxt ",23DEE1CBA2FDEA7CA75C12FE6763E156"
+msgid "Galactic warning!"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",E680837CCB4284E00BA30C51DC3DDDCA"
+msgid "There must be only one killer!"
+msgstr ""
+
+msgctxt ",23DEE1CBA2FDEA7CA75C12FE6763E156"
+msgid "Galactic warning!"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",ECF821A96D23C424AAF46B9C7CEE4DD2"
+msgid "Please note that some texts may not be translated correctly."
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",64AA39F6FF651CEC7F6AD56D87C6F2AB"
+msgid "This map is not available in the demo."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",7705E2E63DF37D87A78E1A701D89C24B"
+msgid "This map is currently not available."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",5AE58887E0F74F250748C0901A35ABF8"
+msgid "The microphone has been reconnected. If it still does not work, \r\nrestart the game or contact Galactic Games Support."
+msgstr ""
+
+msgctxt ",43FB51C4DE83AF6844F9A1670417E435"
+msgid "Galactic error!"
+msgstr ""
+
+msgctxt ",51CFBCFF36DA74A9FC47F3A5140F99F2"
+msgid "Restart"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",EC4C640BB04232923DC3CC1B2C0D5FFA"
+msgid "Voice Chat is currently in the early stages of development.\r\n If it is not working please contact support."
+msgstr ""
+
+msgctxt ",43FB51C4DE83AF6844F9A1670417E435"
+msgid "Galactic error!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",0D7A8AECDCF2A29F8E949E2F8AE50119"
+msgid "Galactic Games warns that sending invitations is \r\ncorrupted and may not work properly."
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",ED18C067673E3ACAE19186D4118266E3"
+msgid "Sorry, this feature is not enabled in this version \r\nof the game."
+msgstr ""
+
+msgctxt ",23DEE1CBA2FDEA7CA75C12FE6763E156"
+msgid "Galactic warning!"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",0C50643CA5A5840288BCD73C1241FAA5"
+msgid "The hosting failed! Check your internet connection \r\nor contact Galactic Games Support."
+msgstr ""
+
+msgctxt ",43FB51C4DE83AF6844F9A1670417E435"
+msgid "Galactic error!"
+msgstr ""
+
+msgctxt ",51CFBCFF36DA74A9FC47F3A5140F99F2"
+msgid "Restart"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",7501267CE4BF138229C8AC7E2A9D950A"
+msgid "joining failed! Check your Internet connection \r\nor contact Galactic Games Support.\r\n\r\nPossible causes:\r\nSteam requires you to have at least one product \r\npurchased on your Steam account. Otherwise, \r\nSteam will not allow you to connect and send \r\ninvitations."
+msgstr ""
+
+msgctxt ",43FB51C4DE83AF6844F9A1670417E435"
+msgid "Galactic error!"
+msgstr ""
+
+msgctxt ",51CFBCFF36DA74A9FC47F3A5140F99F2"
+msgid "Restart"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",C3E21032BB8ADD14D0C8320E8F457B7C"
+msgid "Connecting to the server may take some time."
+msgstr ""
+
+msgctxt ",7D12B0304E7F427CFD23C3F68E71229D"
+msgid "It may take a while!"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",A127E0B850C9D23AA0DA699C241EF801"
+msgid "Connecting to the server may take some time.\r\n\r\nThis feature is in beta and may not work properly \r\ndue to current multipalyer issues."
+msgstr ""
+
+msgctxt ",7D12B0304E7F427CFD23C3F68E71229D"
+msgid "It may take a while!"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",8C7EBE3949284A8065BB47FA24050ECB"
+msgid "Please note that you are playing Early Access. \r\nThe game may contain some bugs.\r\nLots of content is yet to be added!"
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",DD22AC2123C325CCC391AAEDED03D3E3"
+msgid "This feature is in beta and may not work properly \r\ndue to current multipalyer issues."
+msgstr ""
+
+msgctxt ",43FB51C4DE83AF6844F9A1670417E435"
+msgid "Galactic error!"
+msgstr ""
+
+msgctxt ",51CFBCFF36DA74A9FC47F3A5140F99F2"
+msgid "Restart"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",4E11DB406C6C9F234FE8579CC9BC5EF6"
+msgid "Saving"
+msgstr ""
+
+msgctxt ",EF844B3085C307B5AEEBF7C7B3B4CCF8"
+msgid "All progress in Multiplayer mode will be lost when the game ends."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",348C38FEF3CFE969CBF70D1B9C71C7C7"
+msgid "All progress saved in Save Slot 1 will be irretrievably deleted!"
+msgstr ""
+
+msgctxt ",729A51874FE901B092899E9E8B31C97A"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",4D23ED27F70A9394E8D20331E9200CB3"
+msgid "All progress saved in Save Slot 2 will be irretrievably deleted!"
+msgstr ""
+
+msgctxt ",729A51874FE901B092899E9E8B31C97A"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",0D441C6E6FA7B4432209A8ACFBA8C5A9"
+msgid "All progress saved in Save Slot 3 will be irretrievably deleted!"
+msgstr ""
+
+msgctxt ",729A51874FE901B092899E9E8B31C97A"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",A40ECA73DFE53ED4CD3428E5FA9387EC"
+msgid "It is currently possible to play up to 4 players. Unfortunately there are\r\n only 3 skins. More skins will be added in the future."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",AE64BC248BF34DF509795AA570626B0A"
+msgid "Steam Multiplayer is only available in the steam version."
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",A6875F7A82DF6BF18C4D84B5AE06F4DB"
+msgid "Friend List"
+msgstr ""
+
+msgctxt ",C6A00F137B92AD22C007677FB2113A9F"
+msgid "Invite"
+msgstr ""
+
+msgctxt ",996F7BE7EF1F3DD9F91F0D55DA661B02"
+msgid "Thank you for being part of the community!"
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",2256755EFAC70E1F0AD54A24FD504EE9"
+msgid "Discord server"
+msgstr ""
+
+msgctxt ",A6122A65EAA676F700AE68D393054A37"
+msgid "Start"
+msgstr ""
+
+msgctxt ",332EE981D9BAEBF0546174555353D567"
+msgid "Leave Lobby"
+msgstr ""
+
+msgctxt ",637E29E8DB23B0832FAE80848E4D4733"
+msgid "Server Name"
+msgstr ""
+
+msgctxt ",46F3EA056CAA3126B91F3F70BEEA068C"
+msgid "Map"
+msgstr ""
+
+msgctxt ",650BE61892BF690026089544ABBD9D26"
+msgid "Mode"
+msgstr ""
+
+msgctxt ",63382FB06506C9898555A6C34AC4BA4D"
+msgid "Players 0/0"
+msgstr ""
+
+msgctxt ",66F45B7AB4D8D782091792716C66D236"
+msgid "An error occurred while setting the language! Please try again!\r\nIf it doesn't work, please contact support."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",90826ADB11DCE5A945614A5885DAC6E1"
+msgid "WARNING! Some texts may be mistranslated or not translated at all..."
+msgstr ""
+
+msgctxt ",C6606FD0C7E63446A7839BD982C9CE7F"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+msgctxt ",26D5352EAD4A731F3D11EB2E85D0E297"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgctxt ",D571EAC482A64703EE4D115D2AD30CB0"
+msgid "Language Settings"
+msgstr ""
+
+msgctxt ",78463A384A5AA4FAD5FA73E2F506ECFC"
+msgid "English"
+msgstr ""
+
+msgctxt ",DEBA6920E70615401385FE1FB5A379EC"
+msgid "Russian"
+msgstr ""
+
+msgctxt ",CB5480C32E71778852B08AE1E8712775"
+msgid "Spanish"
+msgstr ""
+
+msgctxt ",C1612BBDEBFA45467E8AB814E08DAFF1"
+msgid "Turkish"
+msgstr ""
+
+msgctxt ",E78A6FC14AD64F7A78386B20568CE95B"
+msgid "Ukrainian"
+msgstr ""
+
+msgctxt ",83FF4480CDF2900AE83BF30D95774D76"
+msgid "Czech"
+msgstr ""
+
+msgctxt ",AD225F707802BA118C22987186DD38E8"
+msgid "French"
+msgstr ""
+
+msgctxt ",86BC3115EB4E9873AC96904A4A68E19E"
+msgid "German"
+msgstr ""
+
+msgctxt ",F32CED6A9BA164C4B3C047FD1D7C882E"
+msgid "Japanese"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",90826ADB11DCE5A945614A5885DAC6E1"
+msgid "WARNING! Some texts may be mistranslated or not translated at all..."
+msgstr ""
+
+msgctxt ",C6606FD0C7E63446A7839BD982C9CE7F"
+msgid "Chinese (Simplified)"
+msgstr ""
+
+msgctxt ",26D5352EAD4A731F3D11EB2E85D0E297"
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgctxt ",D571EAC482A64703EE4D115D2AD30CB0"
+msgid "Language Settings"
+msgstr ""
+
+msgctxt ",78463A384A5AA4FAD5FA73E2F506ECFC"
+msgid "English"
+msgstr ""
+
+msgctxt ",DEBA6920E70615401385FE1FB5A379EC"
+msgid "Russian"
+msgstr ""
+
+msgctxt ",CB5480C32E71778852B08AE1E8712775"
+msgid "Spanish"
+msgstr ""
+
+msgctxt ",C1612BBDEBFA45467E8AB814E08DAFF1"
+msgid "Turkish"
+msgstr ""
+
+msgctxt ",E78A6FC14AD64F7A78386B20568CE95B"
+msgid "Ukrainian"
+msgstr ""
+
+msgctxt ",83FF4480CDF2900AE83BF30D95774D76"
+msgid "Czech"
+msgstr ""
+
+msgctxt ",AD225F707802BA118C22987186DD38E8"
+msgid "French"
+msgstr ""
+
+msgctxt ",86BC3115EB4E9873AC96904A4A68E19E"
+msgid "German"
+msgstr ""
+
+msgctxt ",F32CED6A9BA164C4B3C047FD1D7C882E"
+msgid "Japanese"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",4437670164745D86EF1876FE9F8678A4"
+msgid "Selected!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",B5BBAEF03806BE09A62FD32504B33F6A"
+msgid "SELECT!"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",F7199F983549893576889951FCFCA654"
+msgid "t.MaxFPS 120"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",0459A92B73E48CC4FB153FB506B5FD5C"
+msgid "30 FPS"
+msgstr ""
+
+msgctxt ",6A7321AE92E2E9B3390C94D44955D8C9"
+msgid "60 FPS"
+msgstr ""
+
+msgctxt ",1C1CBABDE2376D52CBF8B23A0437E536"
+msgid "120 FPS"
+msgstr ""
+
+msgctxt ",9D1F822AB2CE3B2ABA301AFBB5245A89"
+msgid "144 FPS"
+msgstr ""
+
+msgctxt ",C9B0872391B322A2EABE828D0B7353C5"
+msgid "No Limit"
+msgstr ""
+
+msgctxt ",0829EA6734059D66E6BF87096B215DC1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt ",7C71EAA5AD02A1034F15F99066EC1F12"
+msgid "Windowed F."
+msgstr ""
+
+msgctxt ",B13311AB51C4C34757F67F26580018DD"
+msgid "Windowed"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",BAFD7322C6E97D25B6299B5D6FE8920B"
+msgid "No"
+msgstr ""
+
+msgctxt ",93CBA07454F06A4A960172BBD6E2A435"
+msgid "Yes"
+msgstr ""
+
+msgctxt ",28D0EDD045E05CF5AF64E35AE0C4C6EF"
+msgid "Low"
+msgstr ""
+
+msgctxt ",87F8A6AB85C9CED3702B4EA641AD4BB5"
+msgid "Medium"
+msgstr ""
+
+msgctxt ",655D20C1CA69519CA647684EDBB2DB35"
+msgid "High"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",F0FF1245A1174953AE3CC74A3F4EF1A6"
+msgid "r.ReflectionMethod 0"
+msgstr ""
+
+msgctxt ",040F47EB31C1B1074463620C55DD8934"
+msgid "r.ReflectionMethod 1"
+msgstr ""
+
+msgctxt ",5F0BE77359CE7BC8BBFDAACD9F2E1A3D"
+msgid "r.ReflectionMethod 2"
+msgstr ""
+
+msgctxt ",669F18161A4BDED012F2933B66C1CCDF"
+msgid "r.ReflectionMethod 3"
+msgstr ""
+
+msgctxt ",DE7B735F75ADA2CDEC9233AB098F067E"
+msgid "3840x2160"
+msgstr ""
+
+msgctxt ",365D4C9C8CF68559397EBFB25BFB14E7"
+msgid "3440x1440"
+msgstr ""
+
+msgctxt ",CCE2F49B724545766C4DFF7FF5D637BD"
+msgid "2560x1440"
+msgstr ""
+
+msgctxt ",E8EDB7BAC38198348697A4B67CDE6E56"
+msgid "1920x1200"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",BBC0DD46D1AE761E827F17E7A6148E72"
+msgid "Push to Talk"
+msgstr ""
+
+msgctxt ",70A51C85067CE6CD7FA1630B5A2D4951"
+msgid "Muted"
+msgstr ""
+
+msgctxt ",907953DCBD01AD68DB1F19BE286936F4"
+msgid "TESTING"
+msgstr ""
+
+msgctxt ",4F266300DD45D8689FD02ACB8E2A2A57"
+msgid "Open Mic"
+msgstr ""
+
+msgctxt ",CD8359FF3BE2EC287C1CC4A7E43E3005"
+msgid "r.TonemapperGamma {x}"
+msgstr ""
+
+msgctxt ",4F266300DD45D8689FD02ACB8E2A2A57"
+msgid "Open Mic"
+msgstr ""
+
+msgctxt ",BA8D43BA40F4082B01DC7F06655CDC45"
+msgid "Press to \"test\""
+msgstr ""
+
+msgctxt ",907953DCBD01AD68DB1F19BE286936F4"
+msgid "TESTING"
+msgstr ""
+
+msgctxt ",70A51C85067CE6CD7FA1630B5A2D4951"
+msgid "Muted"
+msgstr ""
+
+msgctxt ",18ADFA2BBCB7CB3188EA0F751F3FAE76"
+msgid "r.TonemappertGamma 0"
+msgstr ""
+
+msgctxt ",3A704C8F205623CB214AAD01CBDAF333"
+msgid "save Slot 1"
+msgstr ""
+
+msgctxt ",26B0EE08C97F2D3719E36E5A616B7B69"
+msgid "save Slot 2"
+msgstr ""
+
+msgctxt ",B4E673FB1BE0B9EFFF7BCAE0E8AC5C36"
+msgid "save Slot 3"
+msgstr ""
+
+msgctxt ",813EA31FBC6C431BDD1051FFE35400F8"
+msgid "Delete save slot 1"
+msgstr ""
+
+msgctxt ",8A97A866F9A23C1457F911DDACCF601F"
+msgid "Delete save slot 2"
+msgstr ""
+
+msgctxt ",8FB5D311840914680B935D493112B51B"
+msgid "Delete save slot 3"
+msgstr ""
+
+msgctxt ",03C7C0ACE395D80182DB07AE2C30F034"
+msgid "s"
+msgstr ""
+
+msgctxt ",61E9C06EA9A85A5088A499DF6458D276"
+msgid "W"
+msgstr ""
+
+msgctxt ",0CC175B9C0F1B6A831C399E269772661"
+msgid "a"
+msgstr ""
+
+msgctxt ",5206560A306A2E085A437FD258EB57CE"
+msgid "V"
+msgstr ""
+
+msgctxt ",8277E0910D750195B448797616E091AD"
+msgid "d"
+msgstr ""
+
+msgctxt ",825A3D98017BAB11815AD2817201324C"
+msgid "Shift"
+msgstr ""
+
+msgctxt ",2B61E0D5977F2E38F06E16281C802B47"
+msgid "Ctrl"
+msgstr ""
+
+msgctxt ",EF4815FBF1FC239DF5FDC4810EC9B008"
+msgid "right mouse button"
+msgstr ""
+
+msgctxt ",81827F4F974FA972A01DB4324ECCFA8F"
+msgid "left mouse button"
+msgstr ""
+
+msgctxt ",81827F4F974FA972A01DB4324ECCFA8F"
+msgid "left mouse button"
+msgstr ""
+
+msgctxt ",BA8D43BA40F4082B01DC7F06655CDC45"
+msgid "Press to \"test\""
+msgstr ""
+
+msgctxt ",4F266300DD45D8689FD02ACB8E2A2A57"
+msgid "Open Mic"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",C1FABFEA54EC6011E694F211F3FFEBF3"
+msgid "LONG"
+msgstr ""
+
+msgctxt ",901A7320E77E54C4794BD577399EB0A6"
+msgid "Multiplayer"
+msgstr ""
+
+msgctxt ",3F8F53A107EC4A9DC0666FC0FF69D614"
+msgid "Sounds, Voices and Music by:"
+msgstr ""
+
+msgctxt ",796A30EAEDE865288FDFE4CD3E074B60"
+msgid "Anti Aliasing"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",70B6E6DC72222DA9CBC6A45CE8C2D82D"
+msgid "Visual Effects"
+msgstr ""
+
+msgctxt ",3242E87A4E0D0DD3E18C117753CA0A18"
+msgid "Audio Settings"
+msgstr ""
+
+msgctxt ",73C77EE69252F587FB27740B2B1D37B8"
+msgid "Menu Music"
+msgstr ""
+
+msgctxt ",6ACB2D534D2FADEB24067CCAABBA755C"
+msgid "Back to menu"
+msgstr ""
+
+msgctxt ",C800DFBA75C849A9CC5BD1C53ED612C6"
+msgid "Codes by:"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",5F31D7D723C74EDCE306B17B9585967D"
+msgid "Jumpscares Volume"
+msgstr ""
+
+msgctxt ",9633C6F4AB574B8CCAFF5DD3546DBDFC"
+msgid "Footsteps Volume"
+msgstr ""
+
+msgctxt ",2B1319051C4A3633346EE39D7FFC10DD"
+msgid "Microphone Volume"
+msgstr ""
+
+msgctxt ",F1CEFEC9E2196C672A622347F1FBC325"
+msgid "Resume"
+msgstr ""
+
+msgctxt ",6ACB2D534D2FADEB24067CCAABBA755C"
+msgid "Back to menu"
+msgstr ""
+
+msgctxt ",6345811B96B7473EA7D5418E7748EEFB"
+msgid "Level Design by:"
+msgstr ""
+
+msgctxt ",C2E40830CA8CE555B002E7B8FE3FC53B"
+msgid "Shader Effect"
+msgstr ""
+
+msgctxt ",AEA1E492943CCBAD7EE270EC1E064758"
+msgid "Reflection"
+msgstr ""
+
+msgctxt ",769782797D1F4E67D5EC24293CD0DE9E"
+msgid "Rooms"
+msgstr ""
+
+msgctxt ",CF8065DF84B854C82F42468607B8EDF2"
+msgid "Share an Idea!"
+msgstr ""
+
+msgctxt ",4994A8FFEBA4AC3140BEB89E8D41F174"
+msgid "Language"
+msgstr ""
+
+msgctxt ",F80FC5912886262C1DE899A71B5BEA63"
+msgid "Search Servers"
+msgstr ""
+
+msgctxt ",3AA4509B0679DC51F2AABE207E665CC6"
+msgid "Drop Item"
+msgstr ""
+
+msgctxt ",FC5ADBD7F588686745EEA104DBD317AA"
+msgid "Voice Chat"
+msgstr ""
+
+msgctxt ",D218D1D0C7550E69B6CE557D9CCA7D72"
+msgid "Testers:"
+msgstr ""
+
+msgctxt ",2BAF5500F19628C64D8D230AAD6E910B"
+msgid "Choose the save slot!"
+msgstr ""
+
+msgctxt ",3A704C8F205623CB214AAD01CBDAF333"
+msgid "save Slot 1"
+msgstr ""
+
+msgctxt ",26B0EE08C97F2D3719E36E5A616B7B69"
+msgid "save Slot 2"
+msgstr ""
+
+msgctxt ",B4E673FB1BE0B9EFFF7BCAE0E8AC5C36"
+msgid "save Slot 3"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",813EA31FBC6C431BDD1051FFE35400F8"
+msgid "Delete save slot 1"
+msgstr ""
+
+msgctxt ",8A97A866F9A23C1457F911DDACCF601F"
+msgid "Delete save slot 2"
+msgstr ""
+
+msgctxt ",33C988BB836696C22F079020A8004786"
+msgid "Microphone Selection"
+msgstr ""
+
+msgctxt ",DC02CE8F21B6ED01BD3B986E9890B507"
+msgid "Voice Chat - (in development)"
+msgstr ""
+
+msgctxt ",7B45FE65113C13424F14666C64D827E8"
+msgid "Microphone Test"
+msgstr ""
+
+msgctxt ",66B522C1FC11ABB7A1B6C3FEDE72822A"
+msgid "in game VC Method"
+msgstr ""
+
+msgctxt ",B8516F2AC40EE87A062A49AE74F7EA71"
+msgid "Choose the Gamemode!"
+msgstr ""
+
+msgctxt ",1F6D0FD84AE712731E8938AC1F9CEE30"
+msgid "Push To Talk"
+msgstr ""
+
+msgctxt ",E05608C9F6728A8FA124F1F98AD22B95"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt ",4B7960B9F0125C8B3B8746D82DC53ED9"
+msgid "Powered by:"
+msgstr ""
+
+msgctxt ",FF6BF1E3CD56B179DF00408248D99389"
+msgid "FOV"
+msgstr ""
+
+msgctxt ",8FB5D311840914680B935D493112B51B"
+msgid "Delete save slot 3"
+msgstr ""
+
+msgctxt ",91BA25F18269C36625DF87C25CD8DAFF"
+msgid "Daniel Seman"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",B14BF89FFB7644D452C29A3D20B75474"
+msgid "Game translated by:"
+msgstr ""
+
+msgctxt ",1DCC626E56DB5397BEA841D584BE1E46"
+msgid "Singleplayer"
+msgstr ""
+
+msgctxt ",7469A286259799E5B37E5DB9296F00B3"
+msgid "YES"
+msgstr ""
+
+msgctxt ",C2F3F489A00553E7A01D369C103C7251"
+msgid "NO"
+msgstr ""
+
+msgctxt ",4642E767F9251FA40AFADBC963F80B7A"
+msgid "Movement"
+msgstr ""
+
+msgctxt ",45CC62B4D60917AB8CC7C93A3A46B28A"
+msgid "STANDART"
+msgstr ""
+
+msgctxt ",7E3DD5FF49E1A44784D225D2DE402608"
+msgid "INFINITY"
+msgstr ""
+
+msgctxt ",F0FC067CD231956B448C4773C8A9EED7"
+msgid "Are You sure?"
+msgstr ""
+
+msgctxt ",24B6472FCFA59CDDD3F7BBC326582B5F"
+msgid "Controls"
+msgstr ""
+
+msgctxt ",1F25089542226F23116698A25CE6C25A"
+msgid "Key Binds"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",A4FE66AC5F1F41480B718FC493C0E5B4"
+msgid "Developed and Published by:"
+msgstr ""
+
+msgctxt ",0DDE879BD15BA116ED0DFDF750645DBA"
+msgid "Invert Mouse"
+msgstr ""
+
+msgctxt ",C73F319DD22FC082C1A82D9B2FC5CDC2"
+msgid "in game Mouse Sensitivity"
+msgstr ""
+
+msgctxt ",1F25089542226F23116698A25CE6C25A"
+msgid "Key Binds"
+msgstr ""
+
+msgctxt ",7D9B966B019386AADD34C69B6977734A"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt ",BD0D6F23913D57D803AF59D6992F7A50"
+msgid "Move Backward"
+msgstr ""
+
+msgctxt ",A5879696FD83C14B803E58C2FD64677B"
+msgid "Move Left"
+msgstr ""
+
+msgctxt ",DFCD62D7E45D162977CCE3B8A1D95DC8"
+msgid "Move Right"
+msgstr ""
+
+msgctxt ",C35FAC872D8E2403D9266E05F8C9688B"
+msgid "Textures and 3D Models by:"
+msgstr ""
+
+msgctxt ",FFC3DC096E3578A9474B7976953F0EF9"
+msgid "Sprint"
+msgstr ""
+
+msgctxt ",497F1E75BC31C926497E67DF9688F51D"
+msgid "Crouch"
+msgstr ""
+
+msgctxt ",61EE5A22CD5F14ED4E48EB5611031E74"
+msgid "Interaction"
+msgstr ""
+
+msgctxt ",3B4FEC6D20F509DE7C07B0C64C09BCCC"
+msgid "Grab Objects"
+msgstr ""
+
+msgctxt ",D09DD7FBB9EFF64E9C002CFB6DAF8224"
+msgid "Open the Door"
+msgstr ""
+
+msgctxt ",B12E1E89FCC42DFDDB9B4C75C13D7299"
+msgid "Interaction with objects"
+msgstr ""
+
+msgctxt ",4D604DD8F008145471DC845683399189"
+msgid "Inventory"
+msgstr ""
+
+msgctxt ",012374407A6014CCA09303B27F9741EF"
+msgid "Inventory Slot 1"
+msgstr ""
+
+msgctxt ",948A2E3548AAF7F9941A3192FA607D51"
+msgid "Credits"
+msgstr ""
+
+msgctxt ",CA10A4F8B98AFB4A798FDB6735924714"
+msgid "Inventory Slot 2"
+msgstr ""
+
+msgctxt ",B50A951860763326F74E1B053FE3801F"
+msgid "Inventory Slot 3"
+msgstr ""
+
+msgctxt ",CD1C766C71F23CFCEF85D197548324DB"
+msgid "Inventory Slot 4"
+msgstr ""
+
+msgctxt ",98EDB85B00D9527AD5ACEBE451B3FAE6"
+msgid "Accessories"
+msgstr ""
+
+msgctxt ",1D5BC864F8C036DB3ED6DB0656AE1E3B"
+msgid "Whistling"
+msgstr ""
+
+msgctxt ",AA0216116F23A035770B09E88A4E5D77"
+msgid "Video Settings"
+msgstr ""
+
+msgctxt ",047FCFD5724C59ABA3887FC0B0C2B892"
+msgid "Host Server"
+msgstr ""
+
+msgctxt ",B9987A246A537F4FE86F1F2E3D10DBDB"
+msgid "Display"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",D334DFCEA59127BEDFCDBE0A3EE7F494"
+msgid "Graphics"
+msgstr ""
+
+msgctxt ",C9DE830627DB28DE02F1EBB65CDAA6D9"
+msgid "Vertical Sync"
+msgstr ""
+
+msgctxt ",52C73B4AACCFCBEA60E8C71B1F684204"
+msgid "Screen mode"
+msgstr ""
+
+msgctxt ",D9CDB0F6E0D556347C10A8695545A4B5"
+msgid "Gamma"
+msgstr ""
+
+msgctxt ",769782797D1F4E67D5EC24293CD0DE9E"
+msgid "Rooms"
+msgstr ""
+
+msgctxt ",769782797D1F4E67D5EC24293CD0DE9E"
+msgid "Rooms"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",A88F39D8328EE975C1BD0C39A07E6AB5"
+msgid "freesound.org"
+msgstr ""
+
+msgctxt ",CF77FFA2E300274CAB3737F96F4BED0E"
+msgid "Controls Settings"
+msgstr ""
+
+msgctxt ",C779607CCCC8C78D7D5CAFC7D442E903"
+msgid "Post Process Quality"
+msgstr ""
+
+msgctxt ",02865EB91B5DAF254D7A4DBAA8BDEABE"
+msgid "Shadows Quality"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",F7199F983549893576889951FCFCA654"
+msgid "t.MaxFPS 120"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",0459A92B73E48CC4FB153FB506B5FD5C"
+msgid "30 FPS"
+msgstr ""
+
+msgctxt ",6A7321AE92E2E9B3390C94D44955D8C9"
+msgid "60 FPS"
+msgstr ""
+
+msgctxt ",1C1CBABDE2376D52CBF8B23A0437E536"
+msgid "120 FPS"
+msgstr ""
+
+msgctxt ",9D1F822AB2CE3B2ABA301AFBB5245A89"
+msgid "144 FPS"
+msgstr ""
+
+msgctxt ",C9B0872391B322A2EABE828D0B7353C5"
+msgid "No Limit"
+msgstr ""
+
+msgctxt ",0829EA6734059D66E6BF87096B215DC1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt ",7C71EAA5AD02A1034F15F99066EC1F12"
+msgid "Windowed F."
+msgstr ""
+
+msgctxt ",B13311AB51C4C34757F67F26580018DD"
+msgid "Windowed"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",BAFD7322C6E97D25B6299B5D6FE8920B"
+msgid "No"
+msgstr ""
+
+msgctxt ",93CBA07454F06A4A960172BBD6E2A435"
+msgid "Yes"
+msgstr ""
+
+msgctxt ",28D0EDD045E05CF5AF64E35AE0C4C6EF"
+msgid "Low"
+msgstr ""
+
+msgctxt ",87F8A6AB85C9CED3702B4EA641AD4BB5"
+msgid "Medium"
+msgstr ""
+
+msgctxt ",655D20C1CA69519CA647684EDBB2DB35"
+msgid "High"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",F0FF1245A1174953AE3CC74A3F4EF1A6"
+msgid "r.ReflectionMethod 0"
+msgstr ""
+
+msgctxt ",040F47EB31C1B1074463620C55DD8934"
+msgid "r.ReflectionMethod 1"
+msgstr ""
+
+msgctxt ",5F0BE77359CE7BC8BBFDAACD9F2E1A3D"
+msgid "r.ReflectionMethod 2"
+msgstr ""
+
+msgctxt ",669F18161A4BDED012F2933B66C1CCDF"
+msgid "r.ReflectionMethod 3"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",4F266300DD45D8689FD02ACB8E2A2A57"
+msgid "Open Mic"
+msgstr ""
+
+msgctxt ",4F266300DD45D8689FD02ACB8E2A2A57"
+msgid "Open Mic"
+msgstr ""
+
+msgctxt ",18ADFA2BBCB7CB3188EA0F751F3FAE76"
+msgid "r.TonemappertGamma 0"
+msgstr ""
+
+msgctxt ",70A51C85067CE6CD7FA1630B5A2D4951"
+msgid "Muted"
+msgstr ""
+
+msgctxt ",907953DCBD01AD68DB1F19BE286936F4"
+msgid "TESTING"
+msgstr ""
+
+msgctxt ",BA8D43BA40F4082B01DC7F06655CDC45"
+msgid "Press to \"test\""
+msgstr ""
+
+msgctxt ",907953DCBD01AD68DB1F19BE286936F4"
+msgid "TESTING"
+msgstr ""
+
+msgctxt ",BBC0DD46D1AE761E827F17E7A6148E72"
+msgid "Push to Talk"
+msgstr ""
+
+msgctxt ",70A51C85067CE6CD7FA1630B5A2D4951"
+msgid "Muted"
+msgstr ""
+
+msgctxt ",CD8359FF3BE2EC287C1CC4A7E43E3005"
+msgid "r.TonemapperGamma {x}"
+msgstr ""
+
+msgctxt ",3A704C8F205623CB214AAD01CBDAF333"
+msgid "save Slot 1"
+msgstr ""
+
+msgctxt ",26B0EE08C97F2D3719E36E5A616B7B69"
+msgid "save Slot 2"
+msgstr ""
+
+msgctxt ",B4E673FB1BE0B9EFFF7BCAE0E8AC5C36"
+msgid "save Slot 3"
+msgstr ""
+
+msgctxt ",813EA31FBC6C431BDD1051FFE35400F8"
+msgid "Delete save slot 1"
+msgstr ""
+
+msgctxt ",8A97A866F9A23C1457F911DDACCF601F"
+msgid "Delete save slot 2"
+msgstr ""
+
+msgctxt ",8FB5D311840914680B935D493112B51B"
+msgid "Delete save slot 3"
+msgstr ""
+
+msgctxt ",DFCF28D0734569A6A693BC8194DE62BF"
+msgid "G"
+msgstr ""
+
+msgctxt ",03C7C0ACE395D80182DB07AE2C30F034"
+msgid "s"
+msgstr ""
+
+msgctxt ",61E9C06EA9A85A5088A499DF6458D276"
+msgid "W"
+msgstr ""
+
+msgctxt ",0CC175B9C0F1B6A831C399E269772661"
+msgid "a"
+msgstr ""
+
+msgctxt ",5206560A306A2E085A437FD258EB57CE"
+msgid "V"
+msgstr ""
+
+msgctxt ",8277E0910D750195B448797616E091AD"
+msgid "d"
+msgstr ""
+
+msgctxt ",825A3D98017BAB11815AD2817201324C"
+msgid "Shift"
+msgstr ""
+
+msgctxt ",2B61E0D5977F2E38F06E16281C802B47"
+msgid "Ctrl"
+msgstr ""
+
+msgctxt ",EF4815FBF1FC239DF5FDC4810EC9B008"
+msgid "right mouse button"
+msgstr ""
+
+msgctxt ",81827F4F974FA972A01DB4324ECCFA8F"
+msgid "left mouse button"
+msgstr ""
+
+msgctxt ",81827F4F974FA972A01DB4324ECCFA8F"
+msgid "left mouse button"
+msgstr ""
+
+msgctxt ",BA8D43BA40F4082B01DC7F06655CDC45"
+msgid "Press to \"test\""
+msgstr ""
+
+msgctxt ",4F266300DD45D8689FD02ACB8E2A2A57"
+msgid "Open Mic"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",1F40566F8D712CFD34414007C06B5BB2"
+msgid "CornFARM"
+msgstr ""
+
+msgctxt ",901A7320E77E54C4794BD577399EB0A6"
+msgid "Multiplayer"
+msgstr ""
+
+msgctxt ",3F8F53A107EC4A9DC0666FC0FF69D614"
+msgid "Sounds, Voices and Music by:"
+msgstr ""
+
+msgctxt ",796A30EAEDE865288FDFE4CD3E074B60"
+msgid "Anti Aliasing"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",70B6E6DC72222DA9CBC6A45CE8C2D82D"
+msgid "Visual Effects"
+msgstr ""
+
+msgctxt ",3242E87A4E0D0DD3E18C117753CA0A18"
+msgid "Audio Settings"
+msgstr ""
+
+msgctxt ",73C77EE69252F587FB27740B2B1D37B8"
+msgid "Menu Music"
+msgstr ""
+
+msgctxt ",6ACB2D534D2FADEB24067CCAABBA755C"
+msgid "Back to menu"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",C800DFBA75C849A9CC5BD1C53ED612C6"
+msgid "Codes by:"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",5F31D7D723C74EDCE306B17B9585967D"
+msgid "Jumpscares Volume"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",9633C6F4AB574B8CCAFF5DD3546DBDFC"
+msgid "Footsteps Volume"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",2B1319051C4A3633346EE39D7FFC10DD"
+msgid "Microphone Volume"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",F1CEFEC9E2196C672A622347F1FBC325"
+msgid "Resume"
+msgstr ""
+
+msgctxt ",6ACB2D534D2FADEB24067CCAABBA755C"
+msgid "Back to menu"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",6345811B96B7473EA7D5418E7748EEFB"
+msgid "Level Design by:"
+msgstr ""
+
+msgctxt ",948A2E3548AAF7F9941A3192FA607D51"
+msgid "Credits"
+msgstr ""
+
+msgctxt ",C2E40830CA8CE555B002E7B8FE3FC53B"
+msgid "Shader Effect"
+msgstr ""
+
+msgctxt ",AEA1E492943CCBAD7EE270EC1E064758"
+msgid "Reflection"
+msgstr ""
+
+msgctxt ",F80FC5912886262C1DE899A71B5BEA63"
+msgid "Search Servers"
+msgstr ""
+
+msgctxt ",3AA4509B0679DC51F2AABE207E665CC6"
+msgid "Drop Item"
+msgstr ""
+
+msgctxt ",FC5ADBD7F588686745EEA104DBD317AA"
+msgid "Voice Chat"
+msgstr ""
+
+msgctxt ",D218D1D0C7550E69B6CE557D9CCA7D72"
+msgid "Testers:"
+msgstr ""
+
+msgctxt ",2BAF5500F19628C64D8D230AAD6E910B"
+msgid "Choose the save slot!"
+msgstr ""
+
+msgctxt ",3A704C8F205623CB214AAD01CBDAF333"
+msgid "save Slot 1"
+msgstr ""
+
+msgctxt ",26B0EE08C97F2D3719E36E5A616B7B69"
+msgid "save Slot 2"
+msgstr ""
+
+msgctxt ",B4E673FB1BE0B9EFFF7BCAE0E8AC5C36"
+msgid "save Slot 3"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",813EA31FBC6C431BDD1051FFE35400F8"
+msgid "Delete save slot 1"
+msgstr ""
+
+msgctxt ",8A97A866F9A23C1457F911DDACCF601F"
+msgid "Delete save slot 2"
+msgstr ""
+
+msgctxt ",33C988BB836696C22F079020A8004786"
+msgid "Microphone Selection"
+msgstr ""
+
+msgctxt ",FC5ADBD7F588686745EEA104DBD317AA"
+msgid "Voice Chat"
+msgstr ""
+
+msgctxt ",7B45FE65113C13424F14666C64D827E8"
+msgid "Microphone Test"
+msgstr ""
+
+msgctxt ",66B522C1FC11ABB7A1B6C3FEDE72822A"
+msgid "in game VC Method"
+msgstr ""
+
+msgctxt ",6339D9EA2DEC51A9D2C055ED8B2BDB16"
+msgid "Choose a map!"
+msgstr ""
+
+msgctxt ",1F6D0FD84AE712731E8938AC1F9CEE30"
+msgid "Push To Talk"
+msgstr ""
+
+msgctxt ",452332CF07E7A118340EDC074F3C5C1E"
+msgid "Character Creator 4\r\nFab.com\r\nfree3d.com\r\nsketchfab.com\r\ncgtrader.com"
+msgstr ""
+
+msgctxt ",E05608C9F6728A8FA124F1F98AD22B95"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt ",4B7960B9F0125C8B3B8746D82DC53ED9"
+msgid "Powered by:"
+msgstr ""
+
+msgctxt ",FF6BF1E3CD56B179DF00408248D99389"
+msgid "FOV"
+msgstr ""
+
+msgctxt ",8FB5D311840914680B935D493112B51B"
+msgid "Delete save slot 3"
+msgstr ""
+
+msgctxt ",91BA25F18269C36625DF87C25CD8DAFF"
+msgid "Daniel Seman"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",26A4B44A837BF97B972628509912B4A5"
+msgid "MAX"
+msgstr ""
+
+msgctxt ",B14BF89FFB7644D452C29A3D20B75474"
+msgid "Game translated by:"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",1DCC626E56DB5397BEA841D584BE1E46"
+msgid "Singleplayer"
+msgstr ""
+
+msgctxt ",7469A286259799E5B37E5DB9296F00B3"
+msgid "YES"
+msgstr ""
+
+msgctxt ",C2F3F489A00553E7A01D369C103C7251"
+msgid "NO"
+msgstr ""
+
+msgctxt ",4642E767F9251FA40AFADBC963F80B7A"
+msgid "Movement"
+msgstr ""
+
+msgctxt ",723E5A1DF506CCE436EC75D7D5DA2B15"
+msgid "CornCastle"
+msgstr ""
+
+msgctxt ",81151A1669EBD695E837F304A0D8EC79"
+msgid "Coming soon"
+msgstr ""
+
+msgctxt ",F0FC067CD231956B448C4773C8A9EED7"
+msgid "Are You sure?"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",24B6472FCFA59CDDD3F7BBC326582B5F"
+msgid "Controls"
+msgstr ""
+
+msgctxt ",1F25089542226F23116698A25CE6C25A"
+msgid "Key Binds"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",A4FE66AC5F1F41480B718FC493C0E5B4"
+msgid "Developed and Published by:"
+msgstr ""
+
+msgctxt ",0DDE879BD15BA116ED0DFDF750645DBA"
+msgid "Invert Mouse"
+msgstr ""
+
+msgctxt ",C73F319DD22FC082C1A82D9B2FC5CDC2"
+msgid "in game Mouse Sensitivity"
+msgstr ""
+
+msgctxt ",1F25089542226F23116698A25CE6C25A"
+msgid "Key Binds"
+msgstr ""
+
+msgctxt ",7D9B966B019386AADD34C69B6977734A"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt ",BD0D6F23913D57D803AF59D6992F7A50"
+msgid "Move Backward"
+msgstr ""
+
+msgctxt ",A5879696FD83C14B803E58C2FD64677B"
+msgid "Move Left"
+msgstr ""
+
+msgctxt ",DFCD62D7E45D162977CCE3B8A1D95DC8"
+msgid "Move Right"
+msgstr ""
+
+msgctxt ",C35FAC872D8E2403D9266E05F8C9688B"
+msgid "Textures and 3D Models by:"
+msgstr ""
+
+msgctxt ",FFC3DC096E3578A9474B7976953F0EF9"
+msgid "Sprint"
+msgstr ""
+
+msgctxt ",497F1E75BC31C926497E67DF9688F51D"
+msgid "Crouch"
+msgstr ""
+
+msgctxt ",61EE5A22CD5F14ED4E48EB5611031E74"
+msgid "Interaction"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",3B4FEC6D20F509DE7C07B0C64C09BCCC"
+msgid "Grab Objects"
+msgstr ""
+
+msgctxt ",D09DD7FBB9EFF64E9C002CFB6DAF8224"
+msgid "Open the Door"
+msgstr ""
+
+msgctxt ",B12E1E89FCC42DFDDB9B4C75C13D7299"
+msgid "Interaction with objects"
+msgstr ""
+
+msgctxt ",4D604DD8F008145471DC845683399189"
+msgid "Inventory"
+msgstr ""
+
+msgctxt ",012374407A6014CCA09303B27F9741EF"
+msgid "Inventory Slot 1"
+msgstr ""
+
+msgctxt ",948A2E3548AAF7F9941A3192FA607D51"
+msgid "Credits"
+msgstr ""
+
+msgctxt ",CA10A4F8B98AFB4A798FDB6735924714"
+msgid "Inventory Slot 2"
+msgstr ""
+
+msgctxt ",B50A951860763326F74E1B053FE3801F"
+msgid "Inventory Slot 3"
+msgstr ""
+
+msgctxt ",CD1C766C71F23CFCEF85D197548324DB"
+msgid "Inventory Slot 4"
+msgstr ""
+
+msgctxt ",98EDB85B00D9527AD5ACEBE451B3FAE6"
+msgid "Accessories"
+msgstr ""
+
+msgctxt ",1D5BC864F8C036DB3ED6DB0656AE1E3B"
+msgid "Whistling"
+msgstr ""
+
+msgctxt ",AA0216116F23A035770B09E88A4E5D77"
+msgid "Video Settings"
+msgstr ""
+
+msgctxt ",047FCFD5724C59ABA3887FC0B0C2B892"
+msgid "Host Server"
+msgstr ""
+
+msgctxt ",B9987A246A537F4FE86F1F2E3D10DBDB"
+msgid "Display"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",D334DFCEA59127BEDFCDBE0A3EE7F494"
+msgid "Graphics"
+msgstr ""
+
+msgctxt ",C9DE830627DB28DE02F1EBB65CDAA6D9"
+msgid "Vertical Sync"
+msgstr ""
+
+msgctxt ",52C73B4AACCFCBEA60E8C71B1F684204"
+msgid "Screen mode"
+msgstr ""
+
+msgctxt ",D9CDB0F6E0D556347C10A8695545A4B5"
+msgid "Gamma"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",A88F39D8328EE975C1BD0C39A07E6AB5"
+msgid "freesound.org"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",CF77FFA2E300274CAB3737F96F4BED0E"
+msgid "Controls Settings"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",C779607CCCC8C78D7D5CAFC7D442E903"
+msgid "Post Process Quality"
+msgstr ""
+
+msgctxt ",02865EB91B5DAF254D7A4DBAA8BDEABE"
+msgid "Shadows Quality"
+msgstr ""
+
+msgctxt ",02129BB861061D1A052C592E2DC6B383"
+msgid "X"
+msgstr ""
+
+msgctxt ",3E07960FCC45408894CF1402257BD9FD"
+msgid "Kick"
+msgstr ""
+
+msgctxt ",365D3683592464340EEE53F7425D0C7C"
+msgid "Player Name"
+msgstr ""
+
+msgctxt ",7A1920D61156ABC05A60135AEFE8BC67"
+msgid "Default"
+msgstr ""
+
+msgctxt ",C2F3F489A00553E7A01D369C103C7251"
+msgid "NO"
+msgstr ""
+
+msgctxt ",CFCD41F0C1804FB7778F8F01301223F6"
+msgid "Far"
+msgstr ""
+
+msgctxt ",59BF6309C44350592118751ED731718A"
+msgid "WorldWide"
+msgstr ""
+
+msgctxt ",D3D2E617335F08DF83599665EEF8A418"
+msgid "Close"
+msgstr ""
+
+msgctxt ",7469A286259799E5B37E5DB9296F00B3"
+msgid "YES"
+msgstr ""
+
+msgctxt ",59BF6309C44350592118751ED731718A"
+msgid "WorldWide"
+msgstr ""
+
+msgctxt ",9EC088589BE77503FB26F04F81B7ECC4"
+msgid "Epic Servers"
+msgstr ""
+
+msgctxt ",075AE3D2FC31640504F814F60E5EF713"
+msgid "disabled"
+msgstr ""
+
+msgctxt ",B4A2F699DA1C6654A4AC886B66F5380B"
+msgid "Server name:"
+msgstr ""
+
+msgctxt ",C2F3F489A00553E7A01D369C103C7251"
+msgid "NO"
+msgstr ""
+
+msgctxt ",A213829B93A27D3FFE5157F2D5AFE56A"
+msgid "No servers found!"
+msgstr ""
+
+msgctxt ",6E1E1401FAD58C39E0889AA9B120633E"
+msgid "ping:"
+msgstr ""
+
+msgctxt ",99640104D929CB8C31279DFEA66CDBE2"
+msgid "Players:"
+msgstr ""
+
+msgctxt ",F2B2C4AC40B1296A5DAFA5C6EF0C40CB"
+msgid "Steam Servers"
+msgstr ""
+
+msgctxt ",365830FB7F93D4E89D06F1AA75D11988"
+msgid "Available Servers:"
+msgstr ""
+
+msgctxt ",B727E0ECFF39B32F195CB3DEBC289A7C"
+msgid "Distance Filter:"
+msgstr ""
+
+msgctxt ",63A6A88C066880C5AC42394A22803CA6"
+msgid "Refresh"
+msgstr ""
+
+msgctxt ",53BF0818025AA4E80C215CD4D6F45C82"
+msgid "Max Results:"
+msgstr ""
+
+msgctxt ",A286D9991C6A547AE25A5F5216164B8F"
+msgid "Join"
+msgstr ""
+
+msgctxt ",775BC98FD63175FE4712EB636221D52A"
+msgid "Lan?"
+msgstr ""
+
+msgctxt ",0A584817FB3AB548368B7698C6D50F44"
+msgid "This field must be filled in!"
+msgstr ""
+
+msgctxt ",63152951071F1199CAB6701E3C7A5C10"
+msgid "Enter your session password..."
+msgstr ""
+
+msgctxt ",BF04F9E0E03E600D51CC760A059FF4E1"
+msgid "Enter the name of your session..."
+msgstr ""
+
+msgctxt ",87A51C998218890861561C93E14B636B"
+msgid "Server Details:"
+msgstr ""
+
+msgctxt ",028B6A2912EE36235356BA2DE2D77B06"
+msgid "LAN?"
+msgstr ""
+
+msgctxt ",6ACB2D534D2FADEB24067CCAABBA755C"
+msgid "Back to menu"
+msgstr ""
+
+msgctxt ",2C19D7BDEA77BF606C98814491B6EB13"
+msgid "Create Session"
+msgstr ""
+
+msgctxt ",D62C5622141003CD6A5C5DACDFEBD76D"
+msgid "Server Name:"
+msgstr ""
+
+msgctxt ",B341A59D5636ED3D6A819137495B08A0"
+msgid "Password:"
+msgstr ""
+
+msgctxt ",7A3D13C7B0C9C6B60D3A8562AA548992"
+msgid "Public / Invite only"
+msgstr ""
+
+msgctxt ",C2F3F489A00553E7A01D369C103C7251"
+msgid "NO"
+msgstr ""
+
+msgctxt ",7469A286259799E5B37E5DB9296F00B3"
+msgid "YES"
+msgstr ""
+
+msgctxt ",DBBEBF3C0318772E2C4E8D2F9C887E0A"
+msgid "Invite only"
+msgstr ""
+
+msgctxt ",CD0C6092D6A6874F379FE4827ED1DB8B"
+msgid "PUBLIC"
+msgstr ""
+
+msgctxt ",66BEE2E543A60105B1A626E69DBAFA5F"
+msgid "10 ms"
+msgstr ""
+
+msgctxt ",A286D9991C6A547AE25A5F5216164B8F"
+msgid "Join"
+msgstr ""
+
+msgctxt ",0EA953794DDA9E7C7318D1434C0747A7"
+msgid "Enter the password!"
+msgstr ""
+
+msgctxt ",3CC3BD74387DBEDE9E3D4E20353A701D"
+msgid "Connecting..."
+msgstr ""
+
+msgctxt ",EE49E1D11BE6A738BA52259D313D256F"
+msgid "Enter a password to access the session..."
+msgstr ""
+
+msgctxt ",0EA953794DDA9E7C7318D1434C0747A7"
+msgid "Enter the password!"
+msgstr ""
+
+msgctxt ",A286D9991C6A547AE25A5F5216164B8F"
+msgid "Join"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",CA1CBC5F7791186A1F3B63BFD71CF9F9"
+msgid "The Search server and its features have only recently been added.\r\nIt is possible that they will not work properly."
+msgstr ""
+
+msgctxt ",3F93BC7E9EF662F847EA0DE27B42D169"
+msgid "Galactic Warning!"
+msgstr ""
+
+msgctxt ",ADDC8CD9958019259741576092963D11"
+msgid "Okey"
+msgstr ""
+
+msgctxt ",DB5EB84117D06047C97C9A0191B5FFFE"
+msgid "Support"
+msgstr ""
+
+msgctxt ",650BE61892BF690026089544ABBD9D26"
+msgid "Mode"
+msgstr ""
+
+msgctxt ",637E29E8DB23B0832FAE80848E4D4733"
+msgid "Server Name"
+msgstr ""
+
+msgctxt ",A286D9991C6A547AE25A5F5216164B8F"
+msgid "Join"
+msgstr ""
+
+msgctxt ",EE33E909372D935D190F4FCB2A92D542"
+msgid "ms"
+msgstr ""
+
+msgctxt ",4DB4563826BAD0EB2F60EE6E42D0EA4B"
+msgid "Steam"
+msgstr ""
+
+msgctxt ",1D59B567D57CA91246C45D7D8BCFBC28"
+msgid "LAN"
+msgstr ""
+
+msgctxt ",A057E4885E64F0DF4ABF04A05E6F8D6E"
+msgid "ServerName..."
+msgstr ""
+
+msgctxt ",1912877E667E78704D065E000075F4D0"
+msgid "Find Server"
+msgstr ""
+
+msgctxt ",A193C67CBD43C5168849F4C93DDEF952"
+msgid "no servers!"
+msgstr ""
+
+msgctxt ",7FC1873E6B922B23B5F5231DBFEAA21B"
+msgid "Search Server"
+msgstr ""
+
+msgctxt ",6CE3EAC1FD1B4D48B4027E0EE08C96ED"
+msgid "Create Server"
+msgstr ""
+
+msgctxt ",46F3EA056CAA3126B91F3F70BEEA068C"
+msgid "Map"
+msgstr ""
+
+msgctxt ",72E5710989292DB7C48D99D98AB7F45F"
+msgid "Map1"
+msgstr ""
+
+msgctxt ",1D59B567D57CA91246C45D7D8BCFBC28"
+msgid "LAN"
+msgstr ""
+
+msgctxt ",686E697538050E4664636337CC3B834F"
+msgid "Create"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",F573AD6F99732DAF89B2F9DD79BA77E0"
+msgid "Slots"
+msgstr ""
+
+msgctxt ",EA451E25D67B5489AA4DC4D08B07CBC8"
+msgid "Refresh/Find"
+msgstr ""
+
+msgctxt ",4C3880BB027F159E801041B1021E88E8"
+msgid "Method"
+msgstr ""
+
+msgctxt ",4DB4563826BAD0EB2F60EE6E42D0EA4B"
+msgid "Steam"
+msgstr ""
+
+msgctxt ",650BE61892BF690026089544ABBD9D26"
+msgid "Mode"
+msgstr ""
+
+msgctxt ",7A1920D61156ABC05A60135AEFE8BC67"
+msgid "Default"
+msgstr ""
+
+msgctxt ",6CE3EAC1FD1B4D48B4027E0EE08C96ED"
+msgid "Create Server"
+msgstr ""
+
+msgctxt ",3F8F53A107EC4A9DC0666FC0FF69D614"
+msgid "Sounds, Voices and Music by:"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",C800DFBA75C849A9CC5BD1C53ED612C6"
+msgid "Codes by:"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",6345811B96B7473EA7D5418E7748EEFB"
+msgid "Level Design by:"
+msgstr ""
+
+msgctxt ",29E8EE005658EF60AFF229CD8A0563A6"
+msgid "Character Creator 4\r\nUnreal Engine Marketplace\r\nfree3d.com\r\nsketchfab.com\r\ncgtrader.com"
+msgstr ""
+
+msgctxt ",4B7960B9F0125C8B3B8746D82DC53ED9"
+msgid "Powered by:"
+msgstr ""
+
+msgctxt ",B14BF89FFB7644D452C29A3D20B75474"
+msgid "Game translated by:"
+msgstr ""
+
+msgctxt ",B009E8DBF116987D03EAC374548337AE"
+msgid "Team Galactic Games"
+msgstr ""
+
+msgctxt ",A4FE66AC5F1F41480B718FC493C0E5B4"
+msgid "Developed and Published by:"
+msgstr ""
+
+msgctxt ",C35FAC872D8E2403D9266E05F8C9688B"
+msgid "Textures and 3D Models by:"
+msgstr ""
+
+msgctxt ",A88F39D8328EE975C1BD0C39A07E6AB5"
+msgid "freesound.org"
+msgstr ""
+
+msgctxt ",72E5710989292DB7C48D99D98AB7F45F"
+msgid "Map1"
+msgstr ""
+
+msgctxt ",BA07BC4BCF2DCF7A07154A017F35BA76"
+msgid "Map2"
+msgstr ""
+
+msgctxt ",20FCCAFCA3CD844098D397C49C6784A0"
+msgid "Third Person"
+msgstr ""
+
+msgctxt ",A6122A65EAA676F700AE68D393054A37"
+msgid "Start"
+msgstr ""
+
+msgctxt ",332EE981D9BAEBF0546174555353D567"
+msgid "Leave Lobby"
+msgstr ""
+
+msgctxt ",1B8588424B9BC162B2192F326326DF85"
+msgid "ServerName"
+msgstr ""
+
+msgctxt ",46F3EA056CAA3126B91F3F70BEEA068C"
+msgid "Map"
+msgstr ""
+
+msgctxt ",650BE61892BF690026089544ABBD9D26"
+msgid "Mode"
+msgstr ""
+
+msgctxt ",63382FB06506C9898555A6C34AC4BA4D"
+msgid "Players 0/0"
+msgstr ""
+
+msgctxt ",0D82790B0612935992BD564A17CE37D6"
+msgid "Quit"
+msgstr ""
+
+msgctxt ",BB372DDF88AD8FCC480F7A8599A92ABC"
+msgid "Hi,"
+msgstr ""
+
+msgctxt ",1A83F7F049EB8A884AE73E220B265C62"
+msgid "Playername"
+msgstr ""
+
+msgctxt ",901A7320E77E54C4794BD577399EB0A6"
+msgid "Multiplayer"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",A2B668F156B39EC54443760E3D13515A"
+msgid "PlayerName"
+msgstr ""
+
+msgctxt ",3E07960FCC45408894CF1402257BD9FD"
+msgid "Kick"
+msgstr ""
+
+msgctxt ",650BE61892BF690026089544ABBD9D26"
+msgid "Mode"
+msgstr ""
+
+msgctxt ",EE33E909372D935D190F4FCB2A92D542"
+msgid "ms"
+msgstr ""
+
+msgctxt ",A286D9991C6A547AE25A5F5216164B8F"
+msgid "Join"
+msgstr ""
+
+msgctxt ",12D51585FF9A9B906BF17310FDD56D5C"
+msgid "Servername"
+msgstr ""
+
+msgctxt ",1D59B567D57CA91246C45D7D8BCFBC28"
+msgid "LAN"
+msgstr ""
+
+msgctxt ",4DB4563826BAD0EB2F60EE6E42D0EA4B"
+msgid "Steam"
+msgstr ""
+
+msgctxt ",A057E4885E64F0DF4ABF04A05E6F8D6E"
+msgid "ServerName..."
+msgstr ""
+
+msgctxt ",1912877E667E78704D065E000075F4D0"
+msgid "Find Server"
+msgstr ""
+
+msgctxt ",D1DB68E5FE12C4BD92E9430442942FF5"
+msgid "No Servers!"
+msgstr ""
+
+msgctxt ",7FC1873E6B922B23B5F5231DBFEAA21B"
+msgid "Search Server"
+msgstr ""
+
+msgctxt ",4C3880BB027F159E801041B1021E88E8"
+msgid "Method"
+msgstr ""
+
+msgctxt ",1B180BFFF304E60E06593C75EAAE4B30"
+msgid "Map 1"
+msgstr ""
+
+msgctxt ",686E697538050E4664636337CC3B834F"
+msgid "Create"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",1D59B567D57CA91246C45D7D8BCFBC28"
+msgid "LAN"
+msgstr ""
+
+msgctxt ",469BBA0A564235DFCEEDE42DB14F17B0"
+msgid "back"
+msgstr ""
+
+msgctxt ",EA451E25D67B5489AA4DC4D08B07CBC8"
+msgid "Refresh/Find"
+msgstr ""
+
+msgctxt ",F573AD6F99732DAF89B2F9DD79BA77E0"
+msgid "Slots"
+msgstr ""
+
+msgctxt ",4DB4563826BAD0EB2F60EE6E42D0EA4B"
+msgid "Steam"
+msgstr ""
+
+msgctxt ",650BE61892BF690026089544ABBD9D26"
+msgid "Mode"
+msgstr ""
+
+msgctxt ",7A1920D61156ABC05A60135AEFE8BC67"
+msgid "Default"
+msgstr ""
+
+msgctxt ",6CE3EAC1FD1B4D48B4027E0EE08C96ED"
+msgid "Create Server"
+msgstr ""
+
+msgctxt ",6CE3EAC1FD1B4D48B4027E0EE08C96ED"
+msgid "Create Server"
+msgstr ""
+
+msgctxt ",46F3EA056CAA3126B91F3F70BEEA068C"
+msgid "Map"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",180EE696088385EF75DC7227E659C02F"
+msgid "t.MaxFPS 15"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",7E40F9C1CC14AE4372E7A901E7371E22"
+msgid "15FPS"
+msgstr ""
+
+msgctxt ",9E9CCDD7EE250A0FCA4BA5E915F459E4"
+msgid "30FPS"
+msgstr ""
+
+msgctxt ",F2EF3CB8C031597AB81C4EED68B13623"
+msgid "60FPS"
+msgstr ""
+
+msgctxt ",5485DBFC5C89B5570ED9729BECF3C822"
+msgid "144FPS"
+msgstr ""
+
+msgctxt ",9053BB14821D3C6DA8319DBF5A065400"
+msgid "UNLIMITED"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",41BC94CBD8EEBEA13CE0491B2AC11B88"
+msgid "LOW"
+msgstr ""
+
+msgctxt ",C87F3BE66FFC3C0D4249F1C2CC5F3CCE"
+msgid "MEDIUM"
+msgstr ""
+
+msgctxt ",B89DE3B4B81C4FACFAC906EDF29AEC8C"
+msgid "HIGH"
+msgstr ""
+
+msgctxt ",F8B6B495AE37B7F4BAA34A5C54BD2F6C"
+msgid "ULTRA"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",B097BD9BE9D46546CBF986BE46639F26"
+msgid "640x480"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",429885327F3D54C840B588BA663058F5"
+msgid "720x480"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",180EE696088385EF75DC7227E659C02F"
+msgid "t.MaxFPS 15"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",7E40F9C1CC14AE4372E7A901E7371E22"
+msgid "15FPS"
+msgstr ""
+
+msgctxt ",9E9CCDD7EE250A0FCA4BA5E915F459E4"
+msgid "30FPS"
+msgstr ""
+
+msgctxt ",F2EF3CB8C031597AB81C4EED68B13623"
+msgid "60FPS"
+msgstr ""
+
+msgctxt ",5485DBFC5C89B5570ED9729BECF3C822"
+msgid "144FPS"
+msgstr ""
+
+msgctxt ",9053BB14821D3C6DA8319DBF5A065400"
+msgid "UNLIMITED"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",41BC94CBD8EEBEA13CE0491B2AC11B88"
+msgid "LOW"
+msgstr ""
+
+msgctxt ",C87F3BE66FFC3C0D4249F1C2CC5F3CCE"
+msgid "MEDIUM"
+msgstr ""
+
+msgctxt ",B89DE3B4B81C4FACFAC906EDF29AEC8C"
+msgid "HIGH"
+msgstr ""
+
+msgctxt ",F8B6B495AE37B7F4BAA34A5C54BD2F6C"
+msgid "ULTRA"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",B097BD9BE9D46546CBF986BE46639F26"
+msgid "640x480"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",429885327F3D54C840B588BA663058F5"
+msgid "720x480"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",526D688F37A86D3C3F27D0C5016EB71D"
+msgid "Reset"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",EA4788705E6873B424C65E91C2846B19"
+msgid "Cancel"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",EE062C33BBE9C20B12BA713DDCCB2086"
+msgid "Speech Volume"
+msgstr ""
+
+msgctxt ",4DC14FE88BF08E0B1510B740510B62A6"
+msgid "(Auto Accept: On)"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",5ED7151AA2E284751CE61F727DC90628"
+msgid "Post Processing"
+msgstr ""
+
+msgctxt ",F6B0F0B0B4F0E6F157EA3B695B438FEA"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt ",6E1C0180F7B4C9ABD95D6420E295BF57"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",82241130D4B052CADFC061F20AD5F927"
+msgid "View Distance"
+msgstr ""
+
+msgctxt ",527E4752A2EECD45E2D54BAD52433916"
+msgid "Effects"
+msgstr ""
+
+msgctxt ",4994A8FFEBA4AC3140BEB89E8D41F174"
+msgid "Language"
+msgstr ""
+
+msgctxt ",456CE8FC5315D26A3F7145A5228D8FD3"
+msgid "Sensitivity"
+msgstr ""
+
+msgctxt ",6795975D2A3EE08C25BD74C360132342"
+msgid "Reset to Defaults"
+msgstr ""
+
+msgctxt ",E05608C9F6728A8FA124F1F98AD22B95"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt ",3EC365DD533DDB7EF3D1C111186CE872"
+msgid "Details"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",9639E32CAB248434A17AB32237CB3B71"
+msgid "Apply"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",A688D86B9A382490FAA1E53359BDF019"
+msgid "Window Mode"
+msgstr ""
+
+msgctxt ",41E20F49B7679DE30F241279DC2E7C48"
+msgid "Vsync"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",180EE696088385EF75DC7227E659C02F"
+msgid "t.MaxFPS 15"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",7E40F9C1CC14AE4372E7A901E7371E22"
+msgid "15FPS"
+msgstr ""
+
+msgctxt ",9E9CCDD7EE250A0FCA4BA5E915F459E4"
+msgid "30FPS"
+msgstr ""
+
+msgctxt ",F2EF3CB8C031597AB81C4EED68B13623"
+msgid "60FPS"
+msgstr ""
+
+msgctxt ",5485DBFC5C89B5570ED9729BECF3C822"
+msgid "144FPS"
+msgstr ""
+
+msgctxt ",9053BB14821D3C6DA8319DBF5A065400"
+msgid "UNLIMITED"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",41BC94CBD8EEBEA13CE0491B2AC11B88"
+msgid "LOW"
+msgstr ""
+
+msgctxt ",C87F3BE66FFC3C0D4249F1C2CC5F3CCE"
+msgid "MEDIUM"
+msgstr ""
+
+msgctxt ",B89DE3B4B81C4FACFAC906EDF29AEC8C"
+msgid "HIGH"
+msgstr ""
+
+msgctxt ",F8B6B495AE37B7F4BAA34A5C54BD2F6C"
+msgid "ULTRA"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",B097BD9BE9D46546CBF986BE46639F26"
+msgid "640x480"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",429885327F3D54C840B588BA663058F5"
+msgid "720x480"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",568EC5062B8DC3CC1D61C962CC483B27"
+msgid "Auto Accept: On"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",EA4788705E6873B424C65E91C2846B19"
+msgid "Cancel"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",EE062C33BBE9C20B12BA713DDCCB2086"
+msgid "Speech Volume"
+msgstr ""
+
+msgctxt ",4DC14FE88BF08E0B1510B740510B62A6"
+msgid "(Auto Accept: On)"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",5ED7151AA2E284751CE61F727DC90628"
+msgid "Post Processing"
+msgstr ""
+
+msgctxt ",F6B0F0B0B4F0E6F157EA3B695B438FEA"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt ",6E1C0180F7B4C9ABD95D6420E295BF57"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",82241130D4B052CADFC061F20AD5F927"
+msgid "View Distance"
+msgstr ""
+
+msgctxt ",527E4752A2EECD45E2D54BAD52433916"
+msgid "Effects"
+msgstr ""
+
+msgctxt ",4994A8FFEBA4AC3140BEB89E8D41F174"
+msgid "Language"
+msgstr ""
+
+msgctxt ",456CE8FC5315D26A3F7145A5228D8FD3"
+msgid "Sensitivity"
+msgstr ""
+
+msgctxt ",6795975D2A3EE08C25BD74C360132342"
+msgid "Reset to Defaults"
+msgstr ""
+
+msgctxt ",3EC365DD533DDB7EF3D1C111186CE872"
+msgid "Details"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",A688D86B9A382490FAA1E53359BDF019"
+msgid "Window Mode"
+msgstr ""
+
+msgctxt ",41E20F49B7679DE30F241279DC2E7C48"
+msgid "Vsync"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",180EE696088385EF75DC7227E659C02F"
+msgid "t.MaxFPS 15"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",7E40F9C1CC14AE4372E7A901E7371E22"
+msgid "15FPS"
+msgstr ""
+
+msgctxt ",9E9CCDD7EE250A0FCA4BA5E915F459E4"
+msgid "30FPS"
+msgstr ""
+
+msgctxt ",F2EF3CB8C031597AB81C4EED68B13623"
+msgid "60FPS"
+msgstr ""
+
+msgctxt ",5485DBFC5C89B5570ED9729BECF3C822"
+msgid "144FPS"
+msgstr ""
+
+msgctxt ",9053BB14821D3C6DA8319DBF5A065400"
+msgid "UNLIMITED"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",41BC94CBD8EEBEA13CE0491B2AC11B88"
+msgid "LOW"
+msgstr ""
+
+msgctxt ",C87F3BE66FFC3C0D4249F1C2CC5F3CCE"
+msgid "MEDIUM"
+msgstr ""
+
+msgctxt ",B89DE3B4B81C4FACFAC906EDF29AEC8C"
+msgid "HIGH"
+msgstr ""
+
+msgctxt ",F8B6B495AE37B7F4BAA34A5C54BD2F6C"
+msgid "ULTRA"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",B097BD9BE9D46546CBF986BE46639F26"
+msgid "640x480"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",429885327F3D54C840B588BA663058F5"
+msgid "720x480"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",EA4788705E6873B424C65E91C2846B19"
+msgid "Cancel"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",EE062C33BBE9C20B12BA713DDCCB2086"
+msgid "Speech Volume"
+msgstr ""
+
+msgctxt ",4DC14FE88BF08E0B1510B740510B62A6"
+msgid "(Auto Accept: On)"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",5ED7151AA2E284751CE61F727DC90628"
+msgid "Post Processing"
+msgstr ""
+
+msgctxt ",F6B0F0B0B4F0E6F157EA3B695B438FEA"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt ",6E1C0180F7B4C9ABD95D6420E295BF57"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",82241130D4B052CADFC061F20AD5F927"
+msgid "View Distance"
+msgstr ""
+
+msgctxt ",527E4752A2EECD45E2D54BAD52433916"
+msgid "Effects"
+msgstr ""
+
+msgctxt ",4994A8FFEBA4AC3140BEB89E8D41F174"
+msgid "Language"
+msgstr ""
+
+msgctxt ",456CE8FC5315D26A3F7145A5228D8FD3"
+msgid "Sensitivity"
+msgstr ""
+
+msgctxt ",6795975D2A3EE08C25BD74C360132342"
+msgid "Reset to Defaults"
+msgstr ""
+
+msgctxt ",E05608C9F6728A8FA124F1F98AD22B95"
+msgid "Quit Game"
+msgstr ""
+
+msgctxt ",3EC365DD533DDB7EF3D1C111186CE872"
+msgid "Details"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",9639E32CAB248434A17AB32237CB3B71"
+msgid "Apply"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",A688D86B9A382490FAA1E53359BDF019"
+msgid "Window Mode"
+msgstr ""
+
+msgctxt ",41E20F49B7679DE30F241279DC2E7C48"
+msgid "Vsync"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",180EE696088385EF75DC7227E659C02F"
+msgid "t.MaxFPS 15"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",7E40F9C1CC14AE4372E7A901E7371E22"
+msgid "15FPS"
+msgstr ""
+
+msgctxt ",9E9CCDD7EE250A0FCA4BA5E915F459E4"
+msgid "30FPS"
+msgstr ""
+
+msgctxt ",F2EF3CB8C031597AB81C4EED68B13623"
+msgid "60FPS"
+msgstr ""
+
+msgctxt ",5485DBFC5C89B5570ED9729BECF3C822"
+msgid "144FPS"
+msgstr ""
+
+msgctxt ",9053BB14821D3C6DA8319DBF5A065400"
+msgid "UNLIMITED"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",41BC94CBD8EEBEA13CE0491B2AC11B88"
+msgid "LOW"
+msgstr ""
+
+msgctxt ",C87F3BE66FFC3C0D4249F1C2CC5F3CCE"
+msgid "MEDIUM"
+msgstr ""
+
+msgctxt ",B89DE3B4B81C4FACFAC906EDF29AEC8C"
+msgid "HIGH"
+msgstr ""
+
+msgctxt ",F8B6B495AE37B7F4BAA34A5C54BD2F6C"
+msgid "ULTRA"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",B097BD9BE9D46546CBF986BE46639F26"
+msgid "640x480"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",429885327F3D54C840B588BA663058F5"
+msgid "720x480"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",EA4788705E6873B424C65E91C2846B19"
+msgid "Cancel"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",EE062C33BBE9C20B12BA713DDCCB2086"
+msgid "Speech Volume"
+msgstr ""
+
+msgctxt ",4DC14FE88BF08E0B1510B740510B62A6"
+msgid "(Auto Accept: On)"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",5ED7151AA2E284751CE61F727DC90628"
+msgid "Post Processing"
+msgstr ""
+
+msgctxt ",F6B0F0B0B4F0E6F157EA3B695B438FEA"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt ",6E1C0180F7B4C9ABD95D6420E295BF57"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",82241130D4B052CADFC061F20AD5F927"
+msgid "View Distance"
+msgstr ""
+
+msgctxt ",527E4752A2EECD45E2D54BAD52433916"
+msgid "Effects"
+msgstr ""
+
+msgctxt ",456CE8FC5315D26A3F7145A5228D8FD3"
+msgid "Sensitivity"
+msgstr ""
+
+msgctxt ",6795975D2A3EE08C25BD74C360132342"
+msgid "Reset to Defaults"
+msgstr ""
+
+msgctxt ",3EC365DD533DDB7EF3D1C111186CE872"
+msgid "Details"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",9639E32CAB248434A17AB32237CB3B71"
+msgid "Apply"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",A688D86B9A382490FAA1E53359BDF019"
+msgid "Window Mode"
+msgstr ""
+
+msgctxt ",41E20F49B7679DE30F241279DC2E7C48"
+msgid "Vsync"
+msgstr ""
+
+msgctxt ",0650FDE039D6D9101C53ADE11ECAFCD3"
+msgid "AUTOSAVE"
+msgstr ""
+
+msgctxt ",D30ED86823337EC180CEAC611B1EAD2B"
+msgid "The game is automatically saved when you place an object on the pentagram."
+msgstr ""
+
+msgctxt ",D8E52888B0181C7455228AF943D89C14"
+msgid "game saving"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",BD0021C7198D62A9E2271915425CC5A2"
+msgid "Mouse Sensitivity"
+msgstr ""
+
+msgctxt ",568EC5062B8DC3CC1D61C962CC483B27"
+msgid "Auto Accept: On"
+msgstr ""
+
+msgctxt ",0DDE879BD15BA116ED0DFDF750645DBA"
+msgid "Invert Mouse"
+msgstr ""
+
+msgctxt ",CF77FFA2E300274CAB3737F96F4BED0E"
+msgid "Controls Settings"
+msgstr ""
+
+msgctxt ",BAFD7322C6E97D25B6299B5D6FE8920B"
+msgid "No"
+msgstr ""
+
+msgctxt ",93CBA07454F06A4A960172BBD6E2A435"
+msgid "Yes"
+msgstr ""
+
+msgctxt ",759E948CFF231A74F25831CF053C7C5D"
+msgid "rov"
+msgstr ""
+
+msgctxt ",FA7153F7ED1CB6C0FCF2FFB2FAC21748"
+msgid "int"
+msgstr ""
+
+msgctxt ",469BBA0A564235DFCEEDE42DB14F17B0"
+msgid "back"
+msgstr ""
+
+msgctxt ",7C4F29407893C334A6CB7A87BF045C0D"
+msgid "right"
+msgstr ""
+
+msgctxt ",811882FECD5C7618D7099EBBD39EA254"
+msgid "left"
+msgstr ""
+
+msgctxt ",E58A7C285C6CC7AE70E8F47938F41ADC"
+msgid "Text Block"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",A5879696FD83C14B803E58C2FD64677B"
+msgid "Move Left"
+msgstr ""
+
+msgctxt ",568EC5062B8DC3CC1D61C962CC483B27"
+msgid "Auto Accept: On"
+msgstr ""
+
+msgctxt ",DFCD62D7E45D162977CCE3B8A1D95DC8"
+msgid "Move Right"
+msgstr ""
+
+msgctxt ",7D9B966B019386AADD34C69B6977734A"
+msgid "Move Forward"
+msgstr ""
+
+msgctxt ",B12E1E89FCC42DFDDB9B4C75C13D7299"
+msgid "Interaction with objects"
+msgstr ""
+
+msgctxt ",BD0D6F23913D57D803AF59D6992F7A50"
+msgid "Move Backward"
+msgstr ""
+
+msgctxt ",5E2E9A736BE8E2C16CE4A8B6B88CBBEA"
+msgid "Key Bindings"
+msgstr ""
+
+msgctxt ",620FA59A2936B6E685CFB489591CB20E"
+msgid "New Game"
+msgstr ""
+
+msgctxt ",729A51874FE901B092899E9E8B31C97A"
+msgid "Are you sure?"
+msgstr ""
+
+msgctxt ",DAE8ACE18BDCBCC6AE5AECE263E14FE8"
+msgid "Options"
+msgstr ""
+
+msgctxt ",948A2E3548AAF7F9941A3192FA607D51"
+msgid "Credits"
+msgstr ""
+
+msgctxt ",0D82790B0612935992BD564A17CE37D6"
+msgid "Quit"
+msgstr ""
+
+msgctxt ",A0BFB8E59E6C13FC8D990781F77694FE"
+msgid "Continue"
+msgstr ""
+
+msgctxt ",93CBA07454F06A4A960172BBD6E2A435"
+msgid "Yes"
+msgstr ""
+
+msgctxt ",BAFD7322C6E97D25B6299B5D6FE8920B"
+msgid "No"
+msgstr ""
+
+msgctxt ",1F25089542226F23116698A25CE6C25A"
+msgid "Key Binds"
+msgstr ""
+
+msgctxt ",3242E87A4E0D0DD3E18C117753CA0A18"
+msgid "Audio Settings"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",0557FA923DCEE4D0F86B1409F5C2167F"
+msgid "Back"
+msgstr ""
+
+msgctxt ",24B6472FCFA59CDDD3F7BBC326582B5F"
+msgid "Controls"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",1F25089542226F23116698A25CE6C25A"
+msgid "Key Binds"
+msgstr ""
+
+msgctxt ",3242E87A4E0D0DD3E18C117753CA0A18"
+msgid "Audio Settings"
+msgstr ""
+
+msgctxt ",34E2D1989A1DBF75CD631596133EE5EE"
+msgid "Video"
+msgstr ""
+
+msgctxt ",39FFBE865780355A3E4EEB3FCDB66DAB"
+msgid "Music Volume"
+msgstr ""
+
+msgctxt ",B22F0418E8AC915EB66F829D262D14A2"
+msgid "Audio"
+msgstr ""
+
+msgctxt ",490E36931D92F0161BCB59D313DA8F12"
+msgid "Master Volume"
+msgstr ""
+
+msgctxt ",24B6472FCFA59CDDD3F7BBC326582B5F"
+msgid "Controls"
+msgstr ""
+
+msgctxt ",80A6E081237EBE9C9E00588184414FD0"
+msgid "SFX Volume"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",F1CEFEC9E2196C672A622347F1FBC325"
+msgid "Resume"
+msgstr ""
+
+msgctxt ",A88B49AAE0BFE3B4A21FC3F7ACCE23D1"
+msgid "Press spacebar to flash."
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",F7199F983549893576889951FCFCA654"
+msgid "t.MaxFPS 120"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",0459A92B73E48CC4FB153FB506B5FD5C"
+msgid "30 FPS"
+msgstr ""
+
+msgctxt ",6A7321AE92E2E9B3390C94D44955D8C9"
+msgid "60 FPS"
+msgstr ""
+
+msgctxt ",1C1CBABDE2376D52CBF8B23A0437E536"
+msgid "120 FPS"
+msgstr ""
+
+msgctxt ",9D1F822AB2CE3B2ABA301AFBB5245A89"
+msgid "144 FPS"
+msgstr ""
+
+msgctxt ",C9B0872391B322A2EABE828D0B7353C5"
+msgid "No Limit"
+msgstr ""
+
+msgctxt ",0829EA6734059D66E6BF87096B215DC1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt ",7C71EAA5AD02A1034F15F99066EC1F12"
+msgid "Windowed F."
+msgstr ""
+
+msgctxt ",B13311AB51C4C34757F67F26580018DD"
+msgid "Windowed"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",BAFD7322C6E97D25B6299B5D6FE8920B"
+msgid "No"
+msgstr ""
+
+msgctxt ",93CBA07454F06A4A960172BBD6E2A435"
+msgid "Yes"
+msgstr ""
+
+msgctxt ",28D0EDD045E05CF5AF64E35AE0C4C6EF"
+msgid "Low"
+msgstr ""
+
+msgctxt ",87F8A6AB85C9CED3702B4EA641AD4BB5"
+msgid "Medium"
+msgstr ""
+
+msgctxt ",655D20C1CA69519CA647684EDBB2DB35"
+msgid "High"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",F0FF1245A1174953AE3CC74A3F4EF1A6"
+msgid "r.ReflectionMethod 0"
+msgstr ""
+
+msgctxt ",040F47EB31C1B1074463620C55DD8934"
+msgid "r.ReflectionMethod 1"
+msgstr ""
+
+msgctxt ",5F0BE77359CE7BC8BBFDAACD9F2E1A3D"
+msgid "r.ReflectionMethod 2"
+msgstr ""
+
+msgctxt ",669F18161A4BDED012F2933B66C1CCDF"
+msgid "r.ReflectionMethod 3"
+msgstr ""
+
+msgctxt ",DE7B735F75ADA2CDEC9233AB098F067E"
+msgid "3840x2160"
+msgstr ""
+
+msgctxt ",365D4C9C8CF68559397EBFB25BFB14E7"
+msgid "3440x1440"
+msgstr ""
+
+msgctxt ",CCE2F49B724545766C4DFF7FF5D637BD"
+msgid "2560x1440"
+msgstr ""
+
+msgctxt ",E8EDB7BAC38198348697A4B67CDE6E56"
+msgid "1920x1200"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",3D3E28AB5532B2751B43E4A499AEB501"
+msgid "Early Access - 0.7.9"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",E404DD0BECE5F7C53D80EDAA70513EEC"
+msgid "Main Menu"
+msgstr ""
+
+msgctxt ",DAE8ACE18BDCBCC6AE5AECE263E14FE8"
+msgid "Options"
+msgstr ""
+
+msgctxt ",948A2E3548AAF7F9941A3192FA607D51"
+msgid "Credits"
+msgstr ""
+
+msgctxt ",F1CEFEC9E2196C672A622347F1FBC325"
+msgid "Resume"
+msgstr ""
+
+msgctxt ",6BFB0BE59A401F6F596C8715FAA3F443"
+msgid "sg.ViewDistanceQuality 0"
+msgstr ""
+
+msgctxt ",83BB32E7A354F3348D71D8D5EC4371F3"
+msgid "sg.ViewDistanceQuality 1"
+msgstr ""
+
+msgctxt ",9323B031712D8A0CAE96EA34E83A3CA6"
+msgid "sg.ViewDistanceQuality 2"
+msgstr ""
+
+msgctxt ",B02A0E2091B9C563D057A8EFE3280D9C"
+msgid "sg.ViewDistanceQuality 3"
+msgstr ""
+
+msgctxt ",C18E309740F2A75353F8C6DC6AFC542B"
+msgid "sg.ViewDistanceQuality 4"
+msgstr ""
+
+msgctxt ",FB70BB4D702D11F1579E69F3681DD1CE"
+msgid "sg.EffectsQuality 0"
+msgstr ""
+
+msgctxt ",593B27BC7E4838B265617722F331434A"
+msgid "sg.EffectsQuality 1"
+msgstr ""
+
+msgctxt ",7E4C05A2D99E52A63E3CA1909332479B"
+msgid "sg.EffectsQuality 2"
+msgstr ""
+
+msgctxt ",31DEDB134F4B8C68202A0C4E78DEC80F"
+msgid "sg.EffectsQuality 3"
+msgstr ""
+
+msgctxt ",9ED713F23CA5AE401D69E155A84AA306"
+msgid "sg.EffectsQuality 4"
+msgstr ""
+
+msgctxt ",180EE696088385EF75DC7227E659C02F"
+msgid "t.MaxFPS 15"
+msgstr ""
+
+msgctxt ",9078CBBB0C93995EAC5DA8578646E9BC"
+msgid "t.MaxFPS 30"
+msgstr ""
+
+msgctxt ",EDEEDF6417635441106046981072DAAF"
+msgid "t.MaxFPS 60"
+msgstr ""
+
+msgctxt ",AF52186F62FCE41599C819BB4CAAB5B5"
+msgid "t.MaxFPS 144"
+msgstr ""
+
+msgctxt ",32918B4A85F69315EF418744E963FF0F"
+msgid "t.MaxFPS 9999"
+msgstr ""
+
+msgctxt ",DC8E2A89AD90A56D61FF704498C3BD42"
+msgid "15 FPS"
+msgstr ""
+
+msgctxt ",0459A92B73E48CC4FB153FB506B5FD5C"
+msgid "30 FPS"
+msgstr ""
+
+msgctxt ",6A7321AE92E2E9B3390C94D44955D8C9"
+msgid "60 FPS"
+msgstr ""
+
+msgctxt ",9D1F822AB2CE3B2ABA301AFBB5245A89"
+msgid "144 FPS"
+msgstr ""
+
+msgctxt ",C9B0872391B322A2EABE828D0B7353C5"
+msgid "No Limit"
+msgstr ""
+
+msgctxt ",0829EA6734059D66E6BF87096B215DC1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt ",7C71EAA5AD02A1034F15F99066EC1F12"
+msgid "Windowed F."
+msgstr ""
+
+msgctxt ",B13311AB51C4C34757F67F26580018DD"
+msgid "Windowed"
+msgstr ""
+
+msgctxt ",D5641E0FE1130BB665C97611B87F6EC7"
+msgid "r.ScreenPercentage 25"
+msgstr ""
+
+msgctxt ",8AF1B6A66903031C40F8595F543C117A"
+msgid "r.ScreenPercentage 50"
+msgstr ""
+
+msgctxt ",DA2A2D3DAF2D46609BB5874DB9B18B30"
+msgid "r.ScreenPercentage 75"
+msgstr ""
+
+msgctxt ",687FAEF29A67F03B01F78F7B71BEF1A9"
+msgid "r.ScreenPercentage 100"
+msgstr ""
+
+msgctxt ",28D0EDD045E05CF5AF64E35AE0C4C6EF"
+msgid "Low"
+msgstr ""
+
+msgctxt ",87F8A6AB85C9CED3702B4EA641AD4BB5"
+msgid "Medium"
+msgstr ""
+
+msgctxt ",655D20C1CA69519CA647684EDBB2DB35"
+msgid "High"
+msgstr ""
+
+msgctxt ",013662CDA61BF2645AA7B929BA8409E7"
+msgid "Galactic"
+msgstr ""
+
+msgctxt ",EEAA46D95887A3EB94DC0F0D0717992F"
+msgid "sg.PostProcessQuality 0"
+msgstr ""
+
+msgctxt ",32741BEAA6180B4E0988EEF24AAF0AC5"
+msgid "sg.PostProcessQuality 1"
+msgstr ""
+
+msgctxt ",81FEF66DC593E1BBDA2F60A1AC988C0A"
+msgid "sg.PostProcessQuality 2"
+msgstr ""
+
+msgctxt ",4C1AA4B3A81EE07B8C88F1D99DD72186"
+msgid "sg.PostProcessQuality 3"
+msgstr ""
+
+msgctxt ",9E523AE15B61DC766F5C818726881ECF"
+msgid "1920x1080"
+msgstr ""
+
+msgctxt ",3060DE6E1162D909982DB8958AF5431F"
+msgid "1600x900"
+msgstr ""
+
+msgctxt ",07769CD8D0A7D09818B2F0B018042FB7"
+msgid "1366x768"
+msgstr ""
+
+msgctxt ",7E39F90815D0CBCA3FCB1178FB9FA803"
+msgid "1280x720"
+msgstr ""
+
+msgctxt ",C29E48814AF5443FF5688D9E967CE917"
+msgid "800x600"
+msgstr ""
+
+msgctxt ",EB415CBF236FCF3C24B8B9E8D954FE87"
+msgid "r.setres 3840×2160"
+msgstr ""
+
+msgctxt ",32D6E664F6A424FBAE854BB9507B3B66"
+msgid "r.setres 3440×1440"
+msgstr ""
+
+msgctxt ",B647363AF955DE083B965355B626E007"
+msgid "r.setres 640x480"
+msgstr ""
+
+msgctxt ",806D518CC68A958DA3D82A26A3A20D2F"
+msgid "r.setres 2560×1440"
+msgstr ""
+
+msgctxt ",48F624D3BDDBF046FB9F6366158AC4E0"
+msgid "r.setres 1920×1200"
+msgstr ""
+
+msgctxt ",77C3F89BB9976231CAF520F8ED51C208"
+msgid "r.setres 1920x1080"
+msgstr ""
+
+msgctxt ",27824F8E5550E563472EAF244284EAB8"
+msgid "r.setres 1600x900"
+msgstr ""
+
+msgctxt ",E83E2EBD07FC4CE8728B6F3113977F5D"
+msgid "r.setres 1366x768"
+msgstr ""
+
+msgctxt ",03C2FDD2FB528886669D940E8D1D555B"
+msgid "r.setres 1280x720"
+msgstr ""
+
+msgctxt ",93966144D34A1C1AA7AFD13EAD0912DF"
+msgid "r.setres 800x600"
+msgstr ""
+
+msgctxt ",457B3AADD80BF82B0B8B8A32135E62D2"
+msgid "r.setres 720x480"
+msgstr ""
+
+msgctxt ",826C398D52864DEB387C6D5CCAE527DE"
+msgid "sg.ShadowQuality 0"
+msgstr ""
+
+msgctxt ",B80F2033037914003BC8ED47FD8FC5EB"
+msgid "sg.ShadowQuality 1"
+msgstr ""
+
+msgctxt ",34532A34E5A40EF8CFCD0B9DCDC91FFD"
+msgid "sg.ShadowQuality 2"
+msgstr ""
+
+msgctxt ",C0DF8FDEA76094149E61BE23EE583EEC"
+msgid "sg.ShadowQuality 3"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",7F1C1450C99A162F93B9E35D64C5E2F0"
+msgid "sg.TextureQuality 0"
+msgstr ""
+
+msgctxt ",BE9BD35FF9C9DCEAC079CEA55887D826"
+msgid "sg.TextureQuality 1"
+msgstr ""
+
+msgctxt ",283084635EC37895DBC1B8170586F3D2"
+msgid "sg.TextureQuality 2"
+msgstr ""
+
+msgctxt ",D20565E67B649D44DEF1B7D08D623D1A"
+msgid "sg.TextureQuality 3"
+msgstr ""
+
+msgctxt ",ADDE26C9C2965A82D904BEC82DE4EF52"
+msgid "sg.TextureQuality 4"
+msgstr ""
+
+msgctxt ",D15305D7A4E34E02489C74A5EF542F36"
+msgid "Off"
+msgstr ""
+
+msgctxt ",521C36A31C2762741CF0F8890CBE05E3"
+msgid "On"
+msgstr ""
+
+msgctxt ",DF503B69CF15B8CD5703D64501C98CEA"
+msgid "r.VSync 1"
+msgstr ""
+
+msgctxt ",0DDDEE189595EB1B931DEAFEDEC14B9E"
+msgid "r.VSync 0"
+msgstr ""
+
+msgctxt ",7B54B0EC8F0CD966C383EE03134E4769"
+msgid "Back To Defaults"
+msgstr ""
+
+msgctxt ",B9987A246A537F4FE86F1F2E3D10DBDB"
+msgid "Display"
+msgstr ""
+
+msgctxt ",D334DFCEA59127BEDFCDBE0A3EE7F494"
+msgid "Graphics"
+msgstr ""
+
+msgctxt ",52C73B4AACCFCBEA60E8C71B1F684204"
+msgid "Screen mode"
+msgstr ""
+
+msgctxt ",C9DE830627DB28DE02F1EBB65CDAA6D9"
+msgid "Vertical Sync"
+msgstr ""
+
+msgctxt ",B5A4B64B2AA505BD7C11F79B8A9F458D"
+msgid "Resolution"
+msgstr ""
+
+msgctxt ",103D5FBC0B88401CBDF812AF5174E749"
+msgid "Graphical Quality"
+msgstr ""
+
+msgctxt ",9CB334507C95E83A9C863F5014AB317E"
+msgid "Frame Rate"
+msgstr ""
+
+msgctxt ",C779607CCCC8C78D7D5CAFC7D442E903"
+msgid "Post Process Quality"
+msgstr ""
+
+msgctxt ",02865EB91B5DAF254D7A4DBAA8BDEABE"
+msgid "Shadows Quality"
+msgstr ""
+
+msgctxt ",AA0216116F23A035770B09E88A4E5D77"
+msgid "Video Settings"
+msgstr ""
+
+msgctxt ",796A30EAEDE865288FDFE4CD3E074B60"
+msgid "Anti Aliasing"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",70B6E6DC72222DA9CBC6A45CE8C2D82D"
+msgid "Visual Effects"
+msgstr ""
+
+msgctxt ",C4408D335012A56FF58937D78050EFAD"
+msgid "Accept"
+msgstr ""
+
+msgctxt ",1C41A911EDDFF0BB6C62EF4C8F669706"
+msgid "deepl.com/translator"
+msgstr ""
+
+msgctxt ",B14BF89FFB7644D452C29A3D20B75474"
+msgid "Game translated by:"
+msgstr ""
+
+msgctxt ",9F08D59B9A784D8368D13B9C4F84D5F1"
+msgid "AdvancedMagicFX13\r\nAlchemistsHouse\r\nARCADE_Ultimate_Vehicles_Pack\r\nBigCompanyArchViz\r\nCemetery_VOL1\r\nEF_Barbra\r\nEF_Edie\r\nEF_FirstFloor\r\nEF_MollyGreg\r\nEF_Sam\r\nEF_TwinsRoom\r\nEnvironment_Set\r\nEnvironmentPack2\r\nESCHER\r\nFogGradients\r\nFoliagePackV1\r\nFXVarietyPack\r\nGoodSky\r\nHorrorDiningRoom\r\nIndustryPropsPack6\r\nModSciInteriors\r\nModularHouses\r\nModularNeighborhoodPack\r\nNaturePackage\r\nOldBrickHouse\r\nPolygonCity\r\nPolygonTown\r\nPoplar_Forest\r\nResearchMegaPack\r\nScanned 3D People Pack\r\nScienceLab\r\nSoulCave\r\nStarterBundle\r\nStorageHouse\r\nTrainStation\r\nTS_Fireworks\r\nVHExterior\r\nWarpsPack\r\nWild_West\r\nWinterForest\r\nWinterForestSet"
+msgstr ""
+
+msgctxt ",A4FE66AC5F1F41480B718FC493C0E5B4"
+msgid "Developed and Published by:"
+msgstr ""
+
+msgctxt ",C1F3FAD8EF81E189133436BA677698CC"
+msgid "Galactic Games"
+msgstr ""
+
+msgctxt ",4061B022D386BEFA54F979D3B2F1D840"
+msgid "Daniel Seman\r\nRadek Matuš"
+msgstr ""
+
+msgctxt ",6345811B96B7473EA7D5418E7748EEFB"
+msgid "Level Design by:"
+msgstr ""
+
+msgctxt ",3F8F53A107EC4A9DC0666FC0FF69D614"
+msgid "Sounds, Voices and Music by:"
+msgstr ""
+
+msgctxt ",E416B91A22E61DA539D2BE3C612051E8"
+msgid "Press Escape to skip."
+msgstr ""
+
+msgctxt ",A88F39D8328EE975C1BD0C39A07E6AB5"
+msgid "freesound.org"
+msgstr ""
+
+msgctxt ",C800DFBA75C849A9CC5BD1C53ED612C6"
+msgid "Codes by:"
+msgstr ""
+
+msgctxt ",4061B022D386BEFA54F979D3B2F1D840"
+msgid "Daniel Seman\r\nRadek Matuš"
+msgstr ""
+
+msgctxt ",D218D1D0C7550E69B6CE557D9CCA7D72"
+msgid "Testers:"
+msgstr ""
+
+msgctxt ",D9E63A01366381DA44138C75F1BD523C"
+msgid "Daniel Seman\r\nSára Novotná\r\nPavel Mihola\r\nRadek Matuš"
+msgstr ""
+
+msgctxt ",C35FAC872D8E2403D9266E05F8C9688B"
+msgid "Textures and 3D Models by:"
+msgstr ""
+
+msgctxt ",E69D3AF01961FF0B3BA259DB61A27806"
+msgid "Radek Matuš\r\nUnreal Engine Marketplace"
+msgstr ""
+
+msgctxt ",2BE85D2A7735547A5A0973FACD34F994"
+msgid "All used Assets:"
+msgstr ""
+
+msgctxt ",F8320B26D30AB433C5A54546D21F414C"
+msgid "False"
+msgstr ""
+
+msgctxt ",B13311AB51C4C34757F67F26580018DD"
+msgid "Windowed"
+msgstr ""
+
+msgctxt ",B802BB5D4496E6F589916190CA03EE3B"
+msgid "DIsplay Resolution"
+msgstr ""
+
+msgctxt ",655D20C1CA69519CA647684EDBB2DB35"
+msgid "High"
+msgstr ""
+
+msgctxt ",E3F530E977D74053C6D70EB84886E756"
+msgid "Epic"
+msgstr ""
+
+msgctxt ",F6B0F0B0B4F0E6F157EA3B695B438FEA"
+msgid "Anti-Aliasing"
+msgstr ""
+
+msgctxt ",A688D86B9A382490FAA1E53359BDF019"
+msgid "Window Mode"
+msgstr ""
+
+msgctxt ",F5869B57D1810CB5526D49532F6D9E29"
+msgid "Texture Quality"
+msgstr ""
+
+msgctxt ",98B06EF30CAA386BE0F897D0E5C5A135"
+msgid "VSync"
+msgstr ""
+
+msgctxt ",3CD57E2453FD602F99B5EC0E48300AA1"
+msgid "Frame Rate Limit"
+msgstr ""
+
+msgctxt ",6E1C0180F7B4C9ABD95D6420E295BF57"
+msgid "Shadow Quality"
+msgstr ""
+
+msgctxt ",527E4752A2EECD45E2D54BAD52433916"
+msgid "Effects"
+msgstr ""
+
+msgctxt ",0829EA6734059D66E6BF87096B215DC1"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt ",0459A92B73E48CC4FB153FB506B5FD5C"
+msgid "30 FPS"
+msgstr ""
+
+msgctxt ",98B06EF30CAA386BE0F897D0E5C5A135"
+msgid "VSync"
+msgstr ""
+
+msgctxt ",B25323F99788CE64617F018B8A9F5F70"
+msgid "Brightness"
+msgstr ""
+
+msgctxt ",34DFC6DEAA426A126182702DA67D7DD2"
+msgid "Shader Quality"
+msgstr ""
+
+msgctxt ",F4F70727DC34561DFDE1A3C529B6205C"
+msgid "Settings"
+msgstr ""
+
+msgctxt ",6A7321AE92E2E9B3390C94D44955D8C9"
+msgid "60 FPS"
+msgstr ""
+
+msgctxt ",1C1CBABDE2376D52CBF8B23A0437E536"
+msgid "120 FPS"
+msgstr ""
+
+msgctxt ",82165A74E91A7F19E798F2C7C98A67CE"
+msgid "Unlimited FPS"
+msgstr ""
+
+msgctxt ",5ED7151AA2E284751CE61F727DC90628"
+msgid "Post Processing"
+msgstr ""
+
+msgctxt ",28D0EDD045E05CF5AF64E35AE0C4C6EF"
+msgid "Low"
+msgstr ""
+
+msgctxt ",87F8A6AB85C9CED3702B4EA641AD4BB5"
+msgid "Medium"
+msgstr ""
+
+msgctxt ",62A214F71D274497F68A4FC0D5277DB6"
+msgid "round!"
+msgstr ""
+
+msgctxt ",11C9CFF20EAC9420A77DFBE5494B375A"
+msgid "rounds!"
+msgstr ""
+
+msgctxt ",51CFBCFF36DA74A9FC47F3A5140F99F2"
+msgid "Restart"
+msgstr ""
+
+msgctxt ",FEF46E5063CE3DC78B8AE64FA474241D"
+msgid "Exit"
+msgstr ""
+
+msgctxt ",14CBC3810E140768B1E1770FA44147C2"
+msgid "Next Player"
+msgstr ""
+
+msgctxt ",92C9CB6406BCCB9C8C502493FC6E6877"
+msgid "Previous Player"
+msgstr ""
+
+msgctxt ",0A81557587DB8CE688C18CF5DC20A056"
+msgid "You died!"
+msgstr ""
+
+msgctxt ",EE03E9BD234DD7B5956255191B420AAD"
+msgid "Respawn in"
+msgstr ""
+
+msgctxt ",11C9CFF20EAC9420A77DFBE5494B375A"
+msgid "rounds!"
+msgstr ""
+
+msgctxt ",704046F7A3FA949213F5210F1AEB218A"
+msgid "Task Completed!"
+msgstr ""
+
+msgctxt ",744BE884DE37B4AC3D290A9FA82BCEF1"
+msgid "New Task!"
+msgstr ""
+
+msgctxt ",D5BA766B974AD672044898830A923785"
+msgid "SAFE ZONE"
+msgstr ""
+
+msgctxt ",70F28EEEC3675985F76B9900E0C0F8B0"
+msgid "This text will be displayed for the next 34 seconds. It shows the secret story connecting all Galactic Games. \r\nThis text has a font size of 34. Most values in BloodLight are equal to 34 or multiples thereof.\r\n Tony is Samuel's grandfather. \r\nHe worked at the SRF where the whirlwind took him to infinity. Hey, Sam. Are you okay, Sam? \r\nWhat's going on? \r\nWhat happened? Where's Grandpa? You know, it's hard. He's stuck, isn't he? Somewhere in the multiverse. \r\nWe don't know where Sam might be. We can't find him. The Science Reserch Facility won't look for him. They think it's pointless. \r\nBut you can handle it, can't you? I'm sorry, but it's impossible to search infinity. \r\nIt's impossible. \r\nHenry! Come here. Give him a little hope, he's still small. I guess he is.\r\n Okay. Okay. Okay. Sam! Sam! Sam! Yes? (laughs) Don't worry, Grandpa will be back. \r\nHe's smart. I'm sure he can find his way back. January 27, 1992.\r\n You must be strong. Don't worry, I'll cure you. Soon you'll be like everyone else. \r\nAnd how will you do that, Dad? \r\nDon't worry about it. I have to go. Get some rest. I have work to do. March 29, 1992. If \r\nDad was here, he'd know how to do it. I can't let her down. I won't let her down. I have to figure it out. This is gonna change the world. I'll take any disease. I can make Project 34 a success.\r\n Doctor Henry Brown? Yes, I will. Come with me. Is something wrong? Yes, Doctor Brown, the government is cutting off our funding and will have to close some departments and stop some projects. We're sorry, but Project 34 is one of them. \r\nAle to nemůžete! Budužel můžu. Vláda totu chce zrušit. Považuje to tu za nebezpečné pro svět. Blbost všechno tu je hlídané. Ale váš  otec to posral. \r\nTo byla poslední kapka. Je jenom otázka času než to tu zavřou a pak nás všechny popraví, jinak to nepůjde. 18. Duben 1992. Nikdo mě nezastaví dokončím to co jsem začal. Moje cera bude volná. 22. Listopad 1994. \r\nScience Reserch Facility byla uzavřena z \r\ndůvodu potencionálního nebezpečí která ohrožovala okolní svět. 20. Prosinec 1994. \r\nLidé viděli zvláštní věci, \r\nkteré byly vyváženy pod plachtamy z Science Reserch Facility \r\nokolo 2 hodiny raní po dobu 4 týdnů. George Davies bývalý zaměstnanec Science Reserch Facility řekl: \r\nStudoval jsem cesty mezi vesmíry. Bylo to hrozné každý den jsem se bál jestli se vrátím domů. \r\nBylo to tak tajné. Něco vám ale řeknu (\") nebyl dobrej nápad fakt ne. 31. Prosinec 1994."
+msgstr ""
+
+msgctxt ",391EC8920F8C85BFE48C3FCA0439DE32"
+msgid "There is a 1 in 34,000,000 chance of seeing this text every 0.1 seconds. Congratulations!"
+msgstr ""
+
+msgctxt ",575261918EA9E1C805E82FC4EFBBE7E3"
+msgid "This is not an anomaly!"
+msgstr ""
+
+msgctxt ",2FAEA8BD99EEC58C9B25622D497ED800"
+msgid "This is definitely not an anomaly!"
+msgstr ""
+
+msgctxt ",F8FB2C2C902152C97C1D506B6F94615B"
+msgid "ModularityExamples"
+msgstr ""
+
+msgctxt ",72F092E30FB06633109FE86381046FE9"
+msgid "StaticMeshes"
+msgstr ""
+
+msgctxt ",AD4AA221C22FD934ECD55E34457FFC3B"
+msgid "Particles"
+msgstr ""
+
+msgctxt ",C541C9CCBBAAE85FE31E5A1813EC7968"
+msgid "Blueprint"
+msgstr ""
+
+msgctxt ",6ADF97F83ACF6453D4A6A4B1070F3754"
+msgid "None"
+msgstr ""
+
+msgctxt ",A84E193048E30239E8DC54E6842626BD"
+msgid "Concrete, Grime"
+msgstr ""
+
+msgctxt ",4CB110B22D8BE410FFA0EF861756895B"
+msgid "Concrete, Panels"
+msgstr ""
+
+msgctxt ",9A05F8EAA2A8C56692B1B31B2C10FA7E"
+msgid "Cobblestone, Smooth"
+msgstr ""
+
+msgctxt ",07E683828AEBA298B30844497CB793A1"
+msgid "Concrete, Poured"
+msgstr ""
+
+msgctxt ",58091CD419F36B3852B27525492A5D46"
+msgid "Moss"
+msgstr ""
+
+msgctxt ",DB57CC7FB63F69C60496B6896591242A"
+msgid "Stone Brick, Cut"
+msgstr ""
+
+msgctxt ",AAC9A63596F76A62BB9F61A5DD7C0D25"
+msgid "Grass"
+msgstr ""
+
+msgctxt ",4668112D7C5F80A73A826DD8150989DF"
+msgid "Steel"
+msgstr ""
+
+msgctxt ",A659251E42A7DD31C713ABB3D3BC3DD4"
+msgid "Concrete, Tiles"
+msgstr ""
+
+msgctxt ",9768FEB3FDB1F267B06093BC572952DD"
+msgid "Gold"
+msgstr ""
+
+msgctxt ",96000FB6AFBEA4834E6ECC1A42F05E26"
+msgid "Stone Brick, Hewn"
+msgstr ""
+
+msgctxt ",0E43C43F7FB9B7C86F9C768ED6DEFFEE"
+msgid "Burnished Steel"
+msgstr ""
+
+msgctxt ",3FAC7288DBC045B234FDE61225FAE806"
+msgid "Gravel"
+msgstr ""
+
+msgctxt ",A4090FFABDFBA53D76B0748A0D87CE21"
+msgid "Copper"
+msgstr ""
+
+msgctxt ",60A06BF0FAB0B80D112CC2E9601BBFDA"
+msgid "Brushed Nickel"
+msgstr ""
+
+msgctxt ",3AE66871D6FBF0064EBEE98A2B75BB2C"
+msgid "Polished Marble"
+msgstr ""
+
+msgctxt ",F5E265D607CB720058FC166E00083FE8"
+msgid "Rust"
+msgstr ""
+
+msgctxt ",3F2554A8DF380E4E0110D4BE03F881A2"
+msgid "Sandstone"
+msgstr ""
+
+msgctxt ",B301EEECAE37166DD0B7987360D341B7"
+msgid "Slate"
+msgstr ""
+
+msgctxt ",77D81C251D61F72D87B45370C9FDC735"
+msgid "Hex Tiles"
+msgstr ""
+
+msgctxt ",986C37480B1F1C2E443504B38B6361B4"
+msgid "Chrome"
+msgstr ""
+
+msgctxt ",00732DB6C08A043116AC515D12BC475B"
+msgid "Clay Brick, Old"
+msgstr ""
+
+msgctxt ",B8DA6DF14BF06283CBF588DF6998722E"
+msgid "Panel"
+msgstr ""
+
+msgctxt ",EC8374DB32BACB4CD9760199EC42819E"
+msgid "Pulse"
+msgstr ""
+
+msgctxt ",57E3918E8EDC60197F3DF3718358ACAA"
+msgid "Lake Water"
+msgstr ""
+
+msgctxt ",715AE4D4C668CA22742C86C4CDC68A60"
+msgid "Ocean Water"
+msgstr ""
+
+msgctxt ",509F5A6707361F2845FCD5728CAFE89E"
+msgid "Basalt"
+msgstr ""
+
+msgctxt ",55FA1499C985A53B443A60F24EA598B3"
+msgid "Walnut"
+msgstr ""
+
+msgctxt ",2E32836D6064DF9AB7963266C16A6F34"
+msgid "Pine"
+msgstr ""
+
+msgctxt ",D884596D6CFA5425C651A5273F2858DB"
+msgid "Walnut, Worn"
+msgstr ""
+
+msgctxt ",3008FA300B4763A9545BA56239D09D2F"
+msgid "Walnut, Polished"
+msgstr ""
+
+msgctxt ",3DA525486B5D85EE1676ED58E178C7A2"
+msgid "Checker/Dot"
+msgstr ""
+
+msgctxt ",376F2BCB5D8188FC3795E3A972AE7156"
+msgid "Clay Brick, New"
+msgstr ""
+
+msgctxt ",F2B6DCDC344BF345A187B3C6C19AF47E"
+msgid "Oak"
+msgstr ""
+
+msgctxt ",072131BBCC04D75A828984A95E2AB199"
+msgid "Clay Brick, Beveled"
+msgstr ""
+
+msgctxt ",5A1182B2D2AC7F5260E048374E28EAA8"
+msgid "Ceramic Tile"
+msgstr ""
+
+msgctxt ",EA5FA4CC81A875B6FF49D394072D672E"
+msgid "Click The Simulate Toolbar Button"
+msgstr ""
+
+msgctxt ",AEDAFA428F14EDEB61866AEF6E7DD44F"
+msgid "Cobblestone, Rough"
+msgstr ""
+
+msgctxt ",7F5331F9BF887A9EF419779C4BCDB2B0"
+msgid "Cobblestone, Pebble"
+msgstr ""
+
+msgctxt ",C9F287ACDCA0812E5CCDD794DAF606ED"
+msgid "Train examples"
+msgstr ""
+
+msgctxt ",9F90D4CFCE9CFA82EEF84DB15AF03976"
+msgid "Train modular"
+msgstr ""
+
+msgctxt ",F08AA9A7E6D2F83E565354F6BE8AABAE"
+msgid "Buildings modular"
+msgstr ""
+
+msgctxt ",9AD963167CC06BD9873A2821497492CD"
+msgid "Props"
+msgstr ""
+
+msgctxt ",637E4AFDB5B95F08A85FEE169F15DA81"
+msgid "Rails"
+msgstr ""
+
+msgctxt ",3519D51443D41746A097CD54CD5C11CF"
+msgid "Ground"
+msgstr ""
+
+msgctxt ",0D616F259F2D33AFBA42E4DAF8422A38"
+msgid "Foilage"
+msgstr ""
+
+msgctxt ",FB76C50CC5503DC1C25091FD2610A849"
+msgid "Decals"
+msgstr ""
+
+msgctxt ",DD09FF7DE20677827DC67069EBA17669"
+msgid "Vista"
+msgstr ""
+
+msgctxt ",3F9ED8DC962EB8F143F8C2C438DFA3CB"
+msgid "Microphone volume {0}"
+msgstr ""
+
+msgctxt ",27192D5CF766C8C4C75AC9A14CD81E93"
+msgid "Start speak radio =>"
+msgstr ""
+
+msgctxt ",1FA65AA4E47C2ADE60EB10E058348A5C"
+msgid "End speak"
+msgstr ""
+
+msgctxt ",72BB9FB78F0F521D913933BB05C9DB3B"
+msgid "Add radio channel =>"
+msgstr ""
+
+msgctxt ",7C5CEB9CF83E8EFEAECD189E981450F3"
+msgid "Remove radio channel =>"
+msgstr ""
+
+msgctxt ",76CD7EFA1E690BD54CD51EB2E4B1D604"
+msgid "Start speak global"
+msgstr ""
+
+msgctxt ",80399226431D920CF429594D3CBD07EC"
+msgid "Microphone volume 1.0"
+msgstr ""
+
+msgctxt ",7687F16C173DA63C3C4C42CAF24ECA69"
+msgid "My channels ?  :\r\n1, 2"
+msgstr ""
+
+msgctxt ",3A5FE162175B372CBC7343FFF06C3E23"
+msgid "Am I currently speaking ?\r\nNo"
+msgstr ""
+
